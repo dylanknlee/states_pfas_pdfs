@@ -2,7 +2,7 @@
 
 ## States to Check:
 
-1. South Carolina - Approved/Needs Fixing (List Errors)
-2. iowa - remove duplicate column rows 
-3. kentucky
-4. wyoming + test
+1. South Carolina - needs checking 
+2. iowa - remove duplicate column rows (needs checking for other inconsistencies)
+3. kentucky - needs checking
+4. wyoming - will be added
