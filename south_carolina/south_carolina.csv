@@ -1,0 +1,47 @@
+,System Number,System Name,Well Name,Sampling Date,Sample Labratory Control Number,Field Blank Collected,Field Blank Results in nanograms per liter (ng/L) by USEPA Method 537.1
+0,SC0220006,Breezy Hill Water,Well 5 Midland Valley,1-Dec-20,20L0201-01,,
+1,SC0220006,Breezy Hill Water,Well 3 Hill Street,1-Dec-20,20L0195-01,Yes,all 18 analytes  <2.0
+2,SC0220006,Breezy Hill Water,Well 9 Hayes Drive No. 2,1-Dec-20,20L0192-01,,
+3,SC0220006,Breezy Hill Water,Well 6 New Woodbridge,1-Dec-20,20L0188-01,,
+4,SC0220006,Breezy Hill Water,Well 7 Greenfield,1-Dec-20,20L0196-01,,
+5,SC0220006,Breezy Hill Water,Well 13 Bettis Academy,1-Dec-20,20L0204-01,,
+6,SC0220006,Breezy Hill Water,Well 12 Sage Mill -- Tank Site,1-Dec-20,20L0187-01,,
+7,SC0220006,Breezy Hill Water,Well 11 Edisto,1-Dec-20,20L0189-01,,
+8,SC0220006,Breezy Hill Water,Well10 Ascauga Lake,1-Dec-20,20L0199-01,,
+9,SC0220006,Breezy Hill Water,Well 8 Hayes Drive,1-Dec-20,20L0203-01,,
+10,SC0220006,Breezy Hill Water,Well 1 Office,1-Dec-20,20L0194-01,,
+11,SC0220006,Breezy Hill Water,Chaulk Bed Rd (New Well),1-Dec-20,20L0207-01,,
+12,SC0720003,Beaufort Jasper Water & Sewer Authority,Rose Hill Well 1 Blufton 4,27-Aug-20,20I0043-01,Yes,all 18 analytes  <2.0
+13,SC0720003,Beaufort Jasper Water & Sewer Authority,Rose Hill Well 3,27-Aug-20,20I0041-01,,
+14,SC0720003,Beaufort Jasper Water & Sewer Authority,SCAD Equestrian,20-Aug-20,20H1111-01,,
+15,SC0720003,Beaufort Jasper Water & Sewer Authority,Bluffton Well 3,27-Aug-20,20I0040-01,,
+16,SC0720003,Beaufort Jasper Water & Sewer Authority,Road 34 Near Forest (CELV),20-Aug-20,20H1112-01,Yes,all 18 analytes  <2.0
+17,SC0720003,Beaufort Jasper Water & Sewer Authority,Road 34 Near Forest (CELV),19-Nov-20,20K1055-01,,
+18,SC0720003,Beaufort Jasper Water & Sewer Authority,Hardeeville Well 3,20-Aug-20,20H1115-01,Yes,all 18 analytes  <2.0
+19,SC0720003,Beaufort Jasper Water & Sewer Authority,Hardeeville Well 3,19-Nov-20,20K1064-01,,
+20,SC0720003,Beaufort Jasper Water & Sewer Authority,Highway 170 Shady Oaks,20-Aug-20,20H1114-01,,
+21,SC0720003,Beaufort Jasper Water & Sewer Authority,Highway 170 Shady Oaks,19-Nov-20,20K1054-01,,
+22,SC2110001,City of Florence,Well 35 Roberta Terrace,30-Jul-30,20G1586-02,Yes,all 18 analytes  <2.0
+23,SC2110001,City of Florence,Well 34 Red Bud Lane,30-Jul-20,20G1589-02,Yes,all 18 analytes  <2.0
+24,SC2110001,City of Florence,Well 28 Santiago Drive,30-Jul-20,20G1591-02,Yes,all 18 analytes  <2.0
+25,SC2110001,City of Florence,Well Highway 403 -- Timmonsville,30-Jul-20,20G1592-01,Yes,all 18 analytes  <2.0
+26,SC2110001,City of Florence,Well 18 Irby Street,30-Jul-20,20G1594-02,Yes,all 18 analytes  <2.0
+27,SC2110001,City of Florence,Well 17 Dexter Drive,30-Jul-20,20G1596-02,Yes,all 18 analytes  <2.0
+28,SC2110001,City of Florence,Well 21 Darlington Street,30-Jul-20,20G1597-01,Yes,all 18 analytes  <2.0
+29,SC2110001,City of Florence,Well 45 Alligator Road -- Deep,30-Jul-20,20G1599-02,Yes,all 18 analytes  <2.0
+30,SC2110001,City of Florence,Alligator Shallow Well,30-Jul-20,20G1604-01,Yes,all 18 analytes  <2.0
+31,SC3410001,City of Bennetsville,Odom Road,20-Oct-20,20J1054,Yes,all 18 analytes  <2.0
+32,SC3410001,City of Bennetsville,Coxe Road,20-Oct-20,20J1083,Yes,all 18 analytes  <2.0
+33,SC3410001,City of Bennetsville,Old Beauty Spot Road,20-Oct-20,20J1061,Yes,all 18 analytes  <2.0
+34,SC3410001,City of Bennetsville,Gibson Road,20-Oct-20,20J1058,Yes,all 18 analytes  <2.0
+35,SC3410001,City of Bennetsville,Sandy Grove Church Road,20-Oct-20,20J1055,Yes,all 18 analytes  <2.0
+36,SC3410001,City of Bennetsville,New Beauty Spot Road,20-Oct-20,20J1060,Yes,all 18 analytes  <2.0
+37,SC3410001,City of Bennetsville,Old Beauty Spot Well 2,20-Oct-20,20J1056/20J1062,Yes,all 18 analytes  <2.0
+38,SC3410001,City of Bennetsville,Gibson Highway Well 2,20-Oct-20,20J1059,Yes,all 18 analytes  <2.0
+39,SC2210001,City of Georgetown,Well 1.Maryville 2,30-Sep-20,20J0037-01,Yes,all 18 analytes <2.0
+40,SC2620004,Grand Strand Water and Sewer Authority,Tern Hall No. 25,30-Sep-20,20J0030-01,,
+41,SC2620004,Grand Strand Water and Sewer Authority,Perry Road Well,30-Sep-20,20J0032-01,,
+42,SC2620004,Grand Strand Water and Sewer Authority,Long Bay No. 14,30-Sep-20,20J0023-01,,
+43,SC2620004,Grand Strand Water and Sewer Authority,Bay Road No. 21,30-Sep-20,20J0036-01,,
+44,SC2620009,Grand Strand Water and Sewer Authority,Wastewater Treatment Plant,30-Sep-20,20J0020-01,,
+45,SC2620009,Grand Strand Water and Sewer Authority,Myrtle Beach Blend Well 91,30-Sep-20,20J0034-01,,
