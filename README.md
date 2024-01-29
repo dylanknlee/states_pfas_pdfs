@@ -2,4 +2,6 @@
 
 ## States to Check:
 
-1. South Carolina - Approved/Needs Fixing (List Errors) 
+1. South Carolina - Approved/Needs Fixing (List Errors)
+2. iowa
+3. kentucky 
