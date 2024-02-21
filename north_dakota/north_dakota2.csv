@@ -1,0 +1,13 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,Site Identification,,,Aquifer 1A,Aquifer 1B,Aquifer 2A,Aquifer 2C,Aquifer 2D,Aquifer 2E,Aquifer 3A,Aquifer 3B,Aquifer 4B,Aquifer 4D
+1,Analyte,Health Advisory Limit,Unit,Detect,Detect,Detect,Detect,Detect,Detect,Detect,Detect,Detect,Detect
+2,PFOS,70,ppt,5.9,5.7,ND,ND,ND,ND,ND,ND,ND,ND
+3,PFOA,70,ppt,ND,ND,ND,ND,ND,ND,ND,ND,1.9,ND
+4,PFBA,Not Established,ppt,ND,ND,3.7,2.3,10,16,10,12,23,ND
+5,PFPeA,Not Established,ppt,ND,ND,ND,ND,ND,ND,ND,2.9,44,ND
+6,PFBS,Not Established,ppt,ND,ND,ND,ND,ND,ND,ND,ND,3.1,ND
+7,PFHxA,Not Established,ppt,ND,ND,ND,ND,ND,ND,ND,ND,26,ND
+8,PFHpA,Not Established,ppt,ND,ND,ND,ND,ND,ND,ND,ND,2.2,ND
+9,PFHxS,Not Established,ppt,ND,ND,ND,ND,ND,ND,ND,ND,10,ND
+10,PfHxa,Not Established,ppt,ND,ND,ND,ND,ND,ND,ND,2.1,ND,ND
+11,6:2 FTS,Not Established,ppt,ND,ND,ND,ND,ND,ND,ND,ND,ND,11
