@@ -10,6 +10,8 @@
 6. alaska (each of the tables on different pdfs are combined into one) Checked but I did not find PFAS type in CSV
 7. virginia Checked
 8. north dakota Checked
-9. 
+9. tennessee (will be added)
+10. arizona (will be added)
+11. new mexico (will be added)
 
-To check: South Carolina (new table added, see note)
+To check: South Carolina (new table added, see note) 
