@@ -12,4 +12,4 @@
 8. north dakota Checked
 9. 
 
-To check: South Carolina (new table added, see note), Wyoming, Alaska (see note), Virginia, North Dakota
+To check: South Carolina (new table added, see note)
