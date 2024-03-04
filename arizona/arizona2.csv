@@ -1,0 +1,474 @@
+,Sample Date,Location,PFOS,PFOA,Combined,PFOS/PFOA EPA Advisory Level,Other Combined PFAs
+0,1/27/2021,4AL Raw,0.035,0.017,0.052,0.070 (Combined),0.0461
+1,1/27/2021,4AL Post Lead,0.023,0.020,0.043,0.070 (Combined),0.0566
+2,1/27/2021,4AL Post Lag (finished water),0.0045,0.012,0.017,0.070 (Combined),0.0448
+3,1/27/2021,10AL Raw,0.052,0.018,0.070,0.070 (Combined),0.0661
+4,1/27/2021,10AL Post Lead,ND,ND,ND,0.070 (Combined),0.0031
+5,1/27/2021,10AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),ND
+6,1/27/2021,5AL Raw,0.0065,0.0074,0.0139,0.070 (Combined),0.0202
+7,1/27/2021,6AL Raw,0.0037,0.0045,0.0082,0.070 (Combined),0.0123
+8,1/27/2021,ALR,0.0049,0.0076,0.0125,0.070 (Combined),0.0237
+9,2/24/2021,4AL Post Lag,ND,ND,ND,0.070 (Combined),0.0853
+10,2/24/2021,10AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),ND
+11,2/24/2021,TW4,ND,0.0054,0.0054,0.070 (Combined),0.0127
+12,2/24/2021,TW5,ND,0.0058,0.0058,0.070 (Combined),0.0160
+13,2/26/2021,ALR,0.0075,0.0098,0.0173,0.070 (Combined),0.0283
+14,2/26/2021,TWR,0.0021,0.0043,0.0064,0.070 (Combined),0.0123
+15,2/12/2020,2AL Post Lead,0.023,0.020,0.043,0.070 (Combined),0.101
+16,2/12/2020,2AL Post Lag (finished water),ND,0.0039,0.0039,0.070 (Combined),0.0481
+17,2/12/2020,4AL Post Lead,0.0036,0.0086,0.0122,0.070 (Combined),0.0338
+18,2/12/2020,4AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),0.0135
+19,4/23/2020,2AL Post Lead,ND,ND,ND,0.070 (Combined),ND
+20,4/23/2020,2AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),ND
+21,4/23/2020,4AL Post Lead,ND,ND,ND,0.070 (Combined),ND
+22,4/23/2020,4AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),ND
+23,5/22/2020,2AL Raw,0.16,0.044,0.204,0.070 (Combined),0.1521
+24,5/22/2020,2AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),ND
+25,5/22/2020,4AL Raw,0.03,0.017,0.047,0.070 (Combined),0.0426
+26,5/22/2020,4AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),ND
+27,5/22/2020,10AL Raw,0.043,0.018,0.061,0.070 (Combined),0.0602
+28,5/22/2020,10AL Post Lead,ND,ND,ND,0.070 (Combined),ND
+29,5/22/2020,10AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),ND
+30,5/22/2020,5AL Raw,0.0053,0.0068,0.0121,0.070 (Combined),0.0176
+31,5/22/2020,6AL Raw,0.0032,0.0037,0.0069,0.070 (Combined),0.0085
+32,5/22/2020,9AL Raw,0.021,0.015,0.036,0.070 (Combined),0.0353
+33,5/22/2020,TW1 Raw,ND,ND,ND,0.070 (Combined),0.0032
+34,5/22/2020,TW2 Raw,0.0024,ND,0.0024,0.070 (Combined),0.0057
+35,5/22/2020,TW4 Raw,ND,0.005,0.005,0.070 (Combined),0.0114
+36,5/22/2020,TW5 Raw,ND,0.0056,0.0056,0.070 (Combined),0.0120
+37,5/22/2020,TW6 Raw,ND,0.0048,0.0048,0.070 (Combined),0.0024
+38,5/22/2020,34C Raw,0.0026,0.0021,0.0047,0.070 (Combined),0.0041
+39,6/23/2020,2AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),ND
+40,6/23/2020,4AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),ND
+41,6/23/2020,10AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),ND
+42,6/23/2020,20B Raw,ND,ND,ND,0.070 (Combined),ND
+43,7/22/2020,2AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),0.0022
+44,7/22/2020,4AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),ND
+45,7/22/2020,10AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),ND
+46,8/19/2020,2AL Raw,0.15,0.037,0.187,0.070 (Combined),0.1408
+47,8/19/2020,2AL Post Lead,0.015,0.011,0.026,0.070 (Combined),0.0589
+48,8/19/2020,2AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),0.0072
+49,8/19/2020,4AL Raw,0.028,0.016,0.044,0.070 (Combined),0.0409
+50,8/19/2020,4AL Post Lead,0.0022,0.005,0.007,0.070 (Combined),0.0264
+51,8/19/2020,4AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),0.0094
+52,8/19/2020,10AL Raw,0.044,0.018,0.062,0.070 (Combined),0.0643
+53,8/19/2020,10AL Post Lead,ND,ND,ND,0.070 (Combined),ND
+54,8/19/2020,10AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),ND
+55,8/19/2020,5AL Raw,0.0051,0.0062,0.011,0.070 (Combined),0.0174
+56,8/19/2020,6AL Raw,0.0031,0.0034,0.007,0.070 (Combined),0.0082
+57,8/19/2020,9AL Raw,0.02,0.014,0.034,0.070 (Combined),0.0341
+58,8/19/2020,TW1 Raw,ND,ND,ND,0.070 (Combined),0.0032
+59,8/19/2020,TW2 Raw,0.0026,ND,0.002,0.070 (Combined),0.0060
+60,8/19/2020,TW4 Raw,ND,0.0049,0.0049,0.070 (Combined),0.0120
+61,8/19/2020,TW5 Raw,ND,0.0043,0.0043,0.070 (Combined),0.0125
+62,8/19/2020,TW6 Raw,ND,0.0042,0.0042,0.070 (Combined),0.0026
+63,8/19/2020,34C Raw,0.0025,ND,0.0025,0.070 (Combined),0.0060
+64,9/23/2020,2AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),0.0253
+65,9/23/2020,4AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),0.0168
+66,10/27/2020,2AL Post Lag (finished water),0.0024,0.0044,0.0068,0.070 (Combined),0.0514
+67,10/27/2020,4AL Post Lag (finished water),ND,0.0029,0.0029,0.070 (Combined),0.0249
+68,10/27/2020,10AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),ND
+69,11/30/2020,4AL Raw,0.035,0.017,0.052,0.070 (Combined),0.0467
+70,11/30/2020,4AL Post Lead,0.013,0.015,0.028,0.070 (Combined),0.0507
+71,11/30/2020,4AL Post Lag (finished water),ND,0.0058,0.0058,0.070 (Combined),0.0359
+72,11/30/2020,10AL Raw,0.052,0.02,0.072,0.070 (Combined),0.0714
+73,11/30/2020,10AL Post Lead,ND,ND,ND,0.070 (Combined),ND
+74,11/30/2020,10AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),ND
+75,11/30/2020,5AL Raw,0.0056,0.0069,0.0125,0.070 (Combined),0.0187
+76,11/30/2020,6AL Raw,0.0036,0.0042,0.0078,0.070 (Combined),0.0117
+77,11/30/2020,9AL Raw,Off,,,,
+78,11/30/2020,TW1 Raw,ND,ND,ND,0.070 (Combined),0.0039
+79,11/30/2020,TW2 Raw,0.0030,0.0022,0.0052,0.070 (Combined),0.0090
+80,11/30/2020,TW4 Raw,ND,0.0055,0.0055,0.070 (Combined),0.0146
+81,11/30/2020,TW5 Raw,ND,0.0057,0.0057,0.070 (Combined),0.0174
+82,11/30/2020,TW6 Raw,ND,0.0046,0.0046,0.070 (Combined),0.0031
+83,11/30/2020,34C Raw,0.0031,0.0020,0.0051,0.070 (Combined),0.0093
+84,11/30/2020,20B Raw,ND,ND,ND,0.070 (Combined),ND
+85,12/21/2020,4AL Post Lag (finished water),0.0023,0.0080,0.0103,0.070 (Combined),0.0401
+86,1/25/2019,10AL Post Lead,ND,ND,ND,0.070 (Combined),
+87,1/25/2019,10AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),
+88,2/22/2019,10AL Post Lead,ND,ND,ND,0.070 (Combined),
+89,2/22/2019,10AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),
+90,3/13/2019,2AL - Post Lead Filter,ND,ND,ND,0.070 (Combined),
+91,3/13/2019,2AL - Post Lag Filter (finished wate,ND,ND,ND,0.070 (Combined),
+92,3/20/2019,10AL Post Lead,ND,ND,ND,0.070 (Combined),
+93,3/20/2019,10AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),
+94,4/22/2019,2AL - Raw,0.16,0.04,0.200,0.070 (Combined),
+95,4/22/2019,2AL - Post Lag Filter (finished wate,ND,ND,ND,0.070 (Combined),
+96,4/22/2019,10AL - Raw,0.025,0.020,0.045,0.070 (Combined),
+97,4/22/2019,10AL - Post Lead,ND,0.002,0.002,0.070 (Combined),
+98,4/22/2019,10AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),
+99,5/22/2019,2AL - Post Lag Filter (finished wate,ND,ND,ND,0.070 (Combined),
+100,5/22/2019,10AL - Post Lead,ND,0.0057,0.0057,0.070 (Combined),
+101,5/22/2019,10AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),
+102,6/20/2019,2AL - Post Lag Filter (finished wate,ND,ND,ND,0.070 (Combined),
+103,6/20/2019,10AL - Post Lead,ND,0.007,0.007,0.070 (Combined),
+104,6/20/2019,10AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),
+105,7/24/2019,2AL - Post Lag Filter (finished wate,ND,ND,ND,0.070 (Combined),
+106,7/24/2019,4AL - Post Lag Filter (finished wate,ND,ND,ND,0.070 (Combined),
+107,7/24/2019,10AL - Post Lead,ND,0.0130,0.0130,0.070 (Combined),
+108,7/24/2019,10AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),
+109,8/22/2019,2AL - Post Lag Filter (finished wate,ND,ND,ND,0.070 (Combined),
+110,8/22/2019,4AL - Post Lag Filter (finished wate,ND,ND,ND,0.070 (Combined),
+111,8/22/2019,10AL - Post Lead,ND,0.0130,0.0130,0.070 (Combined),
+112,8/22/2019,10AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),
+113,9/24/2019,4AL - Post Lag Filter (finished wate,ND,ND,ND,0.070 (Combined),
+114,10/23/2019,2AL - Raw,0.12,0.038,0.158,0.070 (Combined),
+115,10/23/2019,2AL - Post Lead,0.011,0.012,0.023,0.070 (Combined),
+116,10/23/2019,2AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),
+117,10/23/2019,4AL - Raw,0.019,0.014,0.033,0.070 (Combined),
+118,10/23/2019,4AL - Post Lead,ND,ND,ND,0.070 (Combined),
+119,10/23/2019,4AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),
+120,10/23/2019,10AL - Raw,0.039,0.018,0.057,0.070 (Combined),
+121,10/23/2019,10AL - Post Lead,0.0036,0.018,0.0216,0.070 (Combined),
+122,10/23/2019,10AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),
+123,11/19/2019,4AL - Post Lag Filter (finished wate,ND,ND,ND,0.070 (Combined),
+124,1/25/2018,2AL - Raw,0.15,0.033,0.183,0.070 (Combined),
+125,1/25/2018,2AL - Post Lead Filter,ND,ND,ND,0.070 (Combined),
+126,1/25/2018,2AL - Post Lag Filter (finished wate,ND,0.003,0.003,0.070 (Combined),
+127,1/25/2018,4AL - Raw,0.033,0.015,0.048,0.070 (Combined),
+128,1/25/2018,4AL - Post Lead Filter,0.014,0.012,0.026,0.070 (Combined),
+129,1/25/2018,4AL - Post Lag Filter (finished wate,ND,0.005,0.005,0.070 (Combined),
+130,1/25/2018,9AL,0.015,0.011,0.026,0.070 (Combined),
+131,1/25/2018,TW2,ND,ND,ND,0.070 (Combined),
+132,1/25/2018,TW5,ND,0.0031,0.0031,0.070 (Combined),
+133,1/25/2018,EPDS 001 (TWR),ND,0.0026,0.0026,0.070 (Combined),
+134,1/25/2018,EPDS 003 (ALR),0.011,0.0099,0.0209,0.070 (Combined),
+135,1/25/2018,EPDS 006 (34C),ND,ND,ND,0.070 (Combined),
+136,2/23/2018,2AL - Raw,0.15,0.035,0.185,0.070 (Combined),
+137,2/23/2018,2AL - Post Lead Filter,ND,0.0058,0.0058,0.070 (Combined),
+138,2/23/2018,2AL - Post Lag Filter (finished wate,ND,0.006,0.0086,0.070 (Combined),
+139,2/23/2018,4AL - Raw,0.033,0.017,0.05,0.070 (Combined),
+140,2/23/2018,4AL - Post Lead Filter,0.018,0.016,0.034,0.070 (Combined),
+141,2/23/2018,4AL - Post Lag Filter (finished wate,0.0031,0.0085,0.0116,0.070 (Combined),
+142,2/23/2018,9AL,0.022,0.013,0.035,0.070 (Combined),
+143,2/23/2018,TW2,ND,ND,ND,0.070 (Combined),
+144,2/23/2018,EPDS 001 (TWR),ND,ND,ND,0.070 (Combined),
+145,2/23/2018,EPDS 003 (ALR),0.016,0.012,0.028,0.070 (Combined),
+146,2/23/2018,EPDS 005 (10AL),0.034,0.022,0.056,0.070 (Combined),
+147,2/23/2018,EPDS 006 (34C),ND,ND,ND,0.070 (Combined),
+148,3/7/2018,Marbella Well,0.0032,ND,0.0032,0.070 (Combined),
+149,3/23/2018,2AL - Raw,0.14,0.033,0.173,0.070 (Combined),
+150,3/23/2018,2AL - Post Lead Filter - Bottom,ND,ND,0.0089,0.070 (Combined),
+151,3/23/2018,2AL - Post Lag Filter - Middle,ND,0.006,0.0047,0.070 (Combined),
+152,3/23/2018,4AL - Raw,0.03,0.016,0.046,0.070 (Combined),
+153,3/23/2018,4AL - Post Lead Filter,0.016,0.014,0.03,0.070 (Combined),
+154,3/23/2018,4AL - Post Lag Filter (finished wate,0.0048,0.01,0.0148,0.070 (Combined),
+155,3/23/2018,5AL,0.0031,0.0045,0.0076,0.070 (Combined),
+156,3/23/2018,TW2,ND,ND,ND,0.070 (Combined),
+157,3/23/2018,TW5,ND,0.0037,0.0037,0.070 (Combined),
+158,3/23/2018,EPDS 001 (TWR),ND,0.0032,0.0032,0.070 (Combined),
+159,3/23/2018,EPDS 003 (ALR),0.0046,0.0078,0.0124,0.070 (Combined),
+160,3/23/2018,EPDS 005 (10AL),0.031,0.021,0.052,0.070 (Combined),
+161,4/10/2018,10AL - Raw,0.031,0.020,0.051,0.070 (Combined),
+162,4/10/2018,10AL - Post Lag Filter (finished wat,ND,ND,ND,0.070 (Combined),
+163,4/17/2018,2AL - Raw,0.13,0.033,0.163,0.070 (Combined),
+164,4/17/2018,2AL - Post Lead Filter - Top,0.1,0.036,0.136,0.070 (Combined),
+165,4/17/2018,2AL - Post Lead Filter - Bottom,0.046,0.021,0.067,0.070 (Combined),
+166,4/17/2018,2AL - Post Lag Filter - Top,0.024,0.019,0.043,0.070 (Combined),
+167,4/17/2018,2AL - Post Lag Filter - Bottom,0.005,0.008,0.013,0.070 (Combined),
+168,4/17/2018,4AL - Raw,0.031,0.015,0.046,0.070 (Combined),
+169,4/17/2018,4AL - Post Lead Filter,0.02,0.016,0.036,0.070 (Combined),
+170,4/17/2018,4AL - Post Lag Filter (finished wate,0.0058,0.012,0.0178,0.070 (Combined),
+171,4/17/2018,10AL - Raw,0.031,0.020,0.051,0.070 (Combined),
+172,4/17/2018,10AL - Post Lead Filter,ND,ND,ND,0.070 (Combined),
+173,4/17/2018,10AL - Post Lag Filter (finished wat,ND,ND,ND,0.070 (Combined),
+174,4/17/2018,5AL,ND,0.0034,0.0034,0.070 (Combined),
+175,4/17/2018,9AL,0.02,0.012,0.032,0.070 (Combined),
+176,4/17/2018,TW2,ND,ND,ND,0.070 (Combined),
+177,4/17/2018,TW4,ND,0.0038,0.0038,0.070 (Combined),
+178,4/17/2018,TW5,ND,0.0037,0.0037,0.070 (Combined),
+179,4/17/2018,EPDS 001 (TWR),ND,0.0037,0.0037,0.070 (Combined),
+180,4/17/2018,EPDS 003 (ALR),0.0092,0.0087,0.0179,0.070 (Combined),
+181,4/17/2018,EPDS 006 (34C),ND,ND,ND,0.070 (Combined),
+182,5/7/2018,Marbella Well,ND,ND,ND,0.070 (Combined),
+183,5/7/2018,10AL - Raw,0.031,0.019,0.050,0.070 (Combined),
+184,5/7/2018,10AL - Post Lead Filter,ND,ND,ND,0.070 (Combined),
+185,5/7/2018,10AL - Post Lag Filter (finished wat,ND,ND,ND,0.070 (Combined),
+186,5/9/2018,2AL - Raw,0.13,0.033,0.163,0.070 (Combined),
+187,5/9/2018,2AL - Post Lag Filter - Bottom,0.0067,0.0099,0.0166,0.070 (Combined),
+188,5/18/2018,5AL,0.0026,0.0036,0.0062,0.070 (Combined),
+189,5/18/2018,9AL,0.021,0.015,0.036,0.070 (Combined),
+190,5/18/2018,TW1,ND,ND,ND,0.070 (Combined),
+191,5/18/2018,TW2,ND,ND,ND,0.070 (Combined),
+192,5/18/2018,TW4,ND,0.0046,0.0046,0.070 (Combined),
+193,5/18/2018,TW5,ND,0.0039,0.0039,0.070 (Combined),
+194,5/18/2018,EPDS 001 (TWR),ND,0.0032,0.0032,0.070 (Combined),
+195,5/18/2018,EPDS 002 (20B ATF),0.0063,0.0048,0.0111,0.070 (Combined),
+196,5/18/2018,EPDS 003 (ALR),0.011,0.01,0.021,0.070 (Combined),
+197,5/18/2018,EPDS 006 (34C),0.0026,ND,0.0026,0.070 (Combined),
+198,5/18/2018,2AL - Raw,0.16,0.037,0.197,0.070 (Combined),
+199,5/18/2018,2AL - Post Lead Filter - Top,0.14,0.044,0.184,0.070 (Combined),
+200,5/18/2018,2AL - Post Lead Filter - Bottom,0.011,0.024,0.035,0.070 (Combined),
+201,5/18/2018,2AL - Post Lag Filter - Top,0.046,0.029,0.075,0.070 (Combined),
+202,5/18/2018,2AL - Post Lag Filter - Bottom,ND,0.0065,0.0065,0.070 (Combined),
+203,5/18/2018,4AL - Raw,0.032,0.015,0.047,0.070 (Combined),
+204,5/18/2018,4AL - Post Lead Filter,0.024,0.019,0.043,0.070 (Combined),
+205,5/18/2018,4AL - Post Lag Filter (finished wate,0.0097,0.015,0.0247,0.070 (Combined),
+206,5/18/2018,10AL - Raw,0.031,0.022,0.053,0.070 (Combined),
+207,5/18/2018,10AL - Post Lead Filter,ND,ND,0,0.070 (Combined),
+208,5/18/2018,10AL - Post Lag Filter (finished wat,0.0026,ND,0.0026,0.070 (Combined),
+209,5/23/2018,2AL - Post Lag Filter - Bottom,0.013,0.013,0.026,0.070 (Combined),
+210,5/23/2018,10AL - Raw,0.034,0.018,0.052,0.070 (Combined),
+211,5/23/2018,10AL - Post Lag Filter (finished wat,ND,ND,0,0.070 (Combined),
+212,5/30/2018,2AL - Post Lag Filter - Bottom,0.013,0.016,0.029,0.070 (Combined),
+213,5/30/2018,10AL - Raw,0.032,0.019,0.051,0.070 (Combined),
+214,5/30/2018,10AL - Post Lag Filter (finished wat,ND,ND,0,0.070 (Combined),
+215,6/6/2018,2AL - Post Lag Filter - Bottom,0.018,0.019,0.037,0.070 (Combined),
+216,6/6/2018,10AL - Raw,0.034,0.022,0.056,0.070 (Combined),
+217,6/6/2018,10AL - Post Lag Filter (finished wat,ND,ND,0,0.070 (Combined),
+218,6/14/2018,2AL - Post Lag Filter - Bottom,0.021,0.019,0.04,0.070 (Combined),
+219,6/20/2018,2AL - Raw,0.14,0.038,0.178,0.070 (Combined),
+220,6/20/2018,2AL - Post Lead Filter - Bottom,0.025,0.036,0.061,0.070 (Combined),
+221,6/20/2018,2AL - Post Lag Filter - Bottom,0.006,0.017,0.023,0.070 (Combined),
+222,6/20/2018,4AL - Raw,0.03,0.017,0.047,0.070 (Combined),
+223,6/20/2018,4AL - Post Lead Filter,0.027,0.021,0.048,0.070 (Combined),
+224,6/20/2018,4AL - Post Lag Filter (finished wate,0.013,0.022,0.035,0.070 (Combined),
+225,6/20/2018,10AL - Raw,0.034,0.02,0.054,0.070 (Combined),
+226,6/20/2018,10AL - Post Lead Filter,ND,ND,0,0.070 (Combined),
+227,6/20/2018,10AL - Post Lag Filter (finished wat,ND,ND,0,0.070 (Combined),
+228,6/20/2018,5AL,0.0026,0.018,0.0206,0.070 (Combined),
+229,6/20/2018,9AL,0.021,0.013,0.034,0.070 (Combined),
+230,6/20/2018,TW1,ND,ND,ND,0.070 (Combined),
+231,6/20/2018,TW2,ND,ND,ND,0.070 (Combined),
+232,6/20/2018,TW4,ND,0.0042,0.0042,0.070 (Combined),
+233,6/20/2018,TW5,ND,0.0039,0.0039,0.070 (Combined),
+234,6/20/2018,TW6,ND,0.004,0.004,0.070 (Combined),
+235,6/20/2018,20B Raw,ND,ND,ND,0.070 (Combined),
+236,6/20/2018,EPDS 001 (TWR),ND,0.0034,0.0034,0.070 (Combined),
+237,6/20/2018,EPDS 002 (20B ATF),0.0055,0.0051,0.0106,0.070 (Combined),
+238,6/20/2018,EPDS 003 (ALR),0.012,0.01,0.022,0.070 (Combined),
+239,6/20/2018,EPDS 006 (34C),ND,ND,ND,0.070 (Combined),
+240,7/11/2018,2AL - Raw,0.12,0.037,0.157,0.070 (Combined),
+241,7/11/2018,2AL - Post Lead Filter - Bottom,0.081,0.036,0.117,0.070 (Combined),
+242,7/11/2018,2AL - Post Lag Filter - Bottom,0.078,0.033,0.111,0.070 (Combined),
+243,7/11/2018,4AL - Raw,0.03,0.016,0.046,0.070 (Combined),
+244,7/11/2018,4AL - Post Lead Filter,0.03,0.022,0.052,0.070 (Combined),
+245,7/11/2018,4AL - Post Lag Filter,0.019,0.025,0.044,0.070 (Combined),
+246,7/11/2018,10AL - Raw,0.033,0.022,0.055,0.070 (Combined),
+247,7/11/2018,10AL - Post Lead Filter,ND,ND,0,0.070 (Combined),
+248,7/11/2018,10AL - Post Lag Filter,ND,ND,0,0.070 (Combined),
+249,7/11/2018,5AL,0.0027,0.004,0.0067,0.070 (Combined),
+250,7/11/2018,9AL,0.02,0.012,0.032,0.070 (Combined),
+251,7/11/2018,TW1,ND,ND,ND,0.070 (Combined),
+252,7/11/2018,TW2,0.0019,0.002,0.0039,0.070 (Combined),
+253,7/11/2018,TW4,ND,0.0042,0.0042,0.070 (Combined),
+254,7/11/2018,TW5,ND,0.0039,0.0039,0.070 (Combined),
+255,7/11/2018,TW6,ND,0.0038,0.0038,0.070 (Combined),
+256,7/11/2018,20B Raw,ND,ND,ND,0.070 (Combined),
+257,7/11/2018,EPDS 001 (TWR),ND,0.0038,0.0038,0.070 (Combined),
+258,7/11/2018,EPDS 002 (20B ATF),0.0077,0.005,0.0127,0.070 (Combined),
+259,7/11/2018,EPDS 003 (ALR),0.015,0.012,0.027,0.070 (Combined),
+260,7/11/2018,EPDS 006 (34C),0.002,ND,0.002,0.070 (Combined),
+261,8/6/2018,2AL - Post Lag Filter - Bottom,0.042,0.031,0.073,0.070 (Combined),
+262,8/16/2018,4AL - Post Lag Filter (finished wate,0.025,0.028,0.053,0.070 (Combined),
+263,8/16/2018,10AL - Post Lag Filter (finished wat,ND,ND,0,0.070 (Combined),
+264,9/13/2018,10AL - Post Lag Filter (finished wat,ND,ND,0,0.070 (Combined),
+265,10/23/2018,10AL - Post Lag Filter (finished wat,ND,ND,0,0.070 (Combined),
+266,11/15/2018,10AL - Post Lag Filter (finished wat,ND,ND,0,0.070 (Combined),
+267,3/29/2017,4AL - Raw,0.052,0.027,0.079,0.070 (Combined),
+268,3/29/2017,4AL - Post Lead Filter,ND,ND,ND,0.070 (Combined),
+269,3/29/2017,4AL - Post Lag Filter (finished water),ND,ND,ND,0.070 (Combined),
+270,4/18/2017,Tanner Gate - 5AL & 9AL,0.015,0.0076,0.0226,0.070 (Combined),
+271,4/26/2017,5AL,0.0026,0.0032,0.0058,0.070 (Combined),
+272,4/26/2017,9AL,0.024,0.012,0.036,0.070 (Combined),
+273,4/26/2017,TW2,ND,ND,ND,0.070 (Combined),
+274,4/26/2017,TW4,ND,0.0034,0.0034,0.070 (Combined),
+275,4/26/2017,TW5,ND,0.0032,0.0032,0.070 (Combined),
+276,4/26/2017,TW6,ND,0.0032,0.0032,0.070 (Combined),
+277,4/26/2017,EPDS 001,ND,0.0026,0.0026,0.070 (Combined),
+278,4/26/2017,EPDS 003,0.014,0.0075,0.0215,0.070 (Combined),
+279,4/26/2017,EPDS 005,0.028,0.022,0.05,0.070 (Combined),
+280,4/26/2017,EPDS 006,ND,ND,ND,0.070 (Combined),
+281,5/5/2017,4AL - Raw,0.042,0.02,0.062,0.070 (Combined),
+282,5/5/2017,4AL - Post Lead Filter,ND,ND,ND,0.070 (Combined),
+283,5/5/2017,4AL - Post Lag Filter (finished water),ND,ND,ND,0.070 (Combined),
+284,5/22/2017,4AL - Raw,0.039,0.022,0.061,0.070 (Combined),
+285,5/22/2017,4AL - Post Lead Filter,ND,ND,ND,0.070 (Combined),
+286,5/22/2017,4AL - Post Lag Filter (finished water),ND,ND,ND,0.070 (Combined),
+287,5/30/2017,4AL - Raw,0.034,0.018,0.052,0.070 (Combined),
+288,5/30/2017,5AL,ND,0.0033,0.0033,0.070 (Combined),
+289,5/30/2017,9AL,0.026,0.012,0.038,0.070 (Combined),
+290,5/30/2017,TW2,ND,ND,ND,0.070 (Combined),
+291,5/30/2017,TW4,ND,0.0033,0.0033,0.070 (Combined),
+292,5/30/2017,TW5,ND,0.0028,0.0028,0.070 (Combined),
+293,5/30/2017,TW6,ND,0.0033,0.0033,0.070 (Combined),
+294,5/30/2017,EPDS 001,ND,0.003,0.003,0.070 (Combined),
+295,5/30/2017,EPDS 003,0.0087,0.0051,0.0138,0.070 (Combined),
+296,5/30/2017,EPDS 005,0.032,0.024,0.056,0.070 (Combined),
+297,5/30/2017,EPDS 006,ND,ND,ND,0.070 (Combined),
+298,6/22/2017,2AL - Raw,0.14,0.042,0.182,0.070 (Combined),
+299,6/22/2017,2AL - Post Lead Filter,ND,ND,ND,0.070 (Combined),
+300,6/22/2017,2AL - Post Lag Filter (finished water),ND,ND,ND,0.070 (Combined),
+301,6/22/2017,4AL - Raw,0.028,0.014,0.042,0.070 (Combined),
+302,6/22/2017,4AL - Post Lead Filter,ND,ND,ND,0.070 (Combined),
+303,6/22/2017,4AL - Post Lag Filter (finished water),ND,ND,ND,0.070 (Combined),
+304,6/22/2017,5AL,ND,0.003,0.003,0.070 (Combined),
+305,6/22/2017,9AL,0.023,0.012,0.035,0.070 (Combined),
+306,6/22/2017,TW2,ND,ND,ND,0.070 (Combined),
+307,6/22/2017,TW4,ND,0.0032,0.0032,0.070 (Combined),
+308,6/22/2017,TW5,ND,0.0029,0.0029,0.070 (Combined),
+309,6/22/2017,TW6,ND,0.0035,0.0035,0.070 (Combined),
+310,6/22/2017,EPDS 001,ND,0.0029,0.0029,0.070 (Combined),
+311,6/22/2017,EPDS 003,0.0093,0.0029,0.0122,0.070 (Combined),
+312,6/22/2017,EPDS 005,0.028,0.021,0.049,0.070 (Combined),
+313,6/22/2017,EPDS 006,ND,ND,ND,0.070 (Combined),
+314,7/7/2017,2AL - Raw,0.15,0.034,0.184,0.070 (Combined),
+315,7/7/2017,2AL - Post Lead Filter,ND,ND,ND,0.070 (Combined),
+316,7/7/2017,2AL - Post Lag Filter (finished water),ND,ND,ND,0.070 (Combined),
+317,7/7/2017,4AL - Raw,0.024,0.012,0.036,0.070 (Combined),
+318,7/7/2017,4AL - Post Lead Filter,ND,ND,ND,0.070 (Combined),
+319,7/7/2017,4AL - Post Lag Filter (finished water),ND,ND,ND,0.070 (Combined),
+320,7/21/2017,4AL - Raw,0.027,0.014,0.041,0.070 (Combined),
+321,7/21/2017,4AL - Post Lead Filter,ND,ND,ND,0.070 (Combined),
+322,7/21/2017,4AL - Post Lag Filter (finished water),ND,ND,ND,0.070 (Combined),
+323,7/21/2017,5AL,ND,0.0028,0.0028,0.070 (Combined),
+324,7/21/2017,9AL,0.023,0.011,0.034,0.070 (Combined),
+325,7/21/2017,TW1,ND,ND,ND,0.070 (Combined),
+326,7/21/2017,TW2,ND,ND,ND,0.070 (Combined),
+327,7/21/2017,TW5,ND,0.0029,0.0029,0.070 (Combined),
+328,7/21/2017,TW6,ND,0.0034,0.0034,0.070 (Combined),
+329,7/21/2017,EPDS 001,ND,0.0028,0.0028,0.070 (Combined),
+330,7/21/2017,EPDS 002,ND,ND,ND,0.070 (Combined),
+331,7/21/2017,EPDS 003,0.0085,0.0057,0.0142,0.070 (Combined),
+332,7/21/2017,EPDS 006,ND,ND,ND,0.070 (Combined),
+333,8/28/2017,4AL - Raw,0.028,0.014,0.042,0.070 (Combined),
+334,8/28/2017,4AL - Post Lead Filter,ND,0.0026,0.0026,0.070 (Combined),
+335,8/28/2017,4AL - Post Lag Filter (finished water),ND,ND,ND,0.070 (Combined),
+336,8/28/2017,5AL,ND,0.0028,0.0028,0.070 (Combined),
+337,8/28/2017,9AL,0.022,0.011,0.033,0.070 (Combined),
+338,8/28/2017,TW1,ND,ND,ND,0.070 (Combined),
+339,8/28/2017,TW2,ND,ND,ND,0.070 (Combined),
+340,8/28/2017,TW5,ND,0.0029,0.0029,0.070 (Combined),
+341,8/28/2017,TW6,ND,0.003,0.003,0.070 (Combined),
+342,8/28/2017,20B Raw,ND,ND,ND,0.070 (Combined),
+343,8/28/2017,EPDS 001,ND,0.0027,0.0027,0.070 (Combined),
+344,8/28/2017,EPDS 002,ND,ND,ND,0.070 (Combined),
+345,8/28/2017,EPDS 003,0.0071,0.0046,0.0117,0.070 (Combined),
+346,8/28/2017,EPDS 005,0.028,0.02,0.048,0.070 (Combined),
+347,8/28/2017,EPDS 006,ND,ND,ND,0.070 (Combined),
+348,9/22/2017,2AL - Raw,0.16,0.034,0.194,0.070 (Combined),
+349,9/22/2017,2AL - Post Lead Filter,ND,ND,ND,0.070 (Combined),
+350,9/22/2017,2AL - Post Lag Filter (finished water),ND,ND,ND,0.070 (Combined),
+351,9/22/2017,4AL - Raw,0.029,0.016,0.045,0.070 (Combined),
+352,9/22/2017,4AL - Post Lead Filter,0.0029,0.0044,0.0073,0.070 (Combined),
+353,9/22/2017,4AL - Post Lag Filter (finished water),ND,ND,ND,0.070 (Combined),
+354,9/22/2017,5AL,ND,0.0029,0.0029,0.070 (Combined),
+355,9/22/2017,9AL,0.021,0.012,0.033,0.070 (Combined),
+356,9/22/2017,TW1,ND,ND,ND,0.070 (Combined),
+357,9/22/2017,TW2,ND,ND,ND,0.070 (Combined),
+358,9/22/2017,TW6,ND,0.003,0.003,0.070 (Combined),
+359,9/22/2017,20B Raw,ND,ND,ND,0.070 (Combined),
+360,9/22/2017,EPDS 005 (10AL),0.027,0.021,0.048,0.070 (Combined),
+361,9/22/2017,EPDS 006 (34C),ND,ND,ND,0.070 (Combined),
+362,9/29/2017,6AL,ND,ND,ND,0.070 (Combined),
+363,10/23/2017,Marbella Well,ND,ND,ND,0.070 (Combined),
+364,10/27/2017,2AL - Raw,0.17,0.034,0.204,0.070 (Combined),
+365,10/27/2017,2AL - Post Lead Filter,ND,ND,ND,0.070 (Combined),
+366,10/27/2017,2AL - Post Lag Filter (finished water),ND,ND,ND,0.070 (Combined),
+367,10/27/2017,4AL - Raw,0.027,0.013,0.04,0.070 (Combined),
+368,10/27/2017,4AL - Post Lead Filter,0.0062,0.0076,0.0138,0.070 (Combined),
+369,10/27/2017,4AL - Post Lag Filter (finished water),ND,ND,ND,0.070 (Combined),
+370,10/27/2017,5AL,ND,0.0027,0.0027,0.070 (Combined),
+371,10/27/2017,9AL,0.021,0.012,0.033,0.070 (Combined),
+372,10/27/2017,TW1,ND,ND,ND,0.070 (Combined),
+373,10/27/2017,TW2,ND,ND,ND,0.070 (Combined),
+374,10/26/2017,TW4,ND,0.0036,0.0036,0.070 (Combined),
+375,10/27/2017,TW5,ND,0.0031,0.0031,0.070 (Combined),
+376,10/27/2017,TW6,ND,0.0029,0.0029,0.070 (Combined),
+377,10/27/2017,20B Raw,ND,ND,ND,0.070 (Combined),
+378,10/27/2017,EPDS 005 (10AL),0.029,0.019,0.048,0.070 (Combined),
+379,10/27/2017,EPDS 006 (34C),ND,ND,ND,0.070 (Combined),
+380,10/27/2017,EPDS 001 (TWR),ND,0.0025,0.0025,0.070 (Combined),
+381,10/27/2017,EPDS 003 (ALR),ND,ND,ND,0.070 (Combined),
+382,11/27/2017,2AL - Raw,0.14,0.029,0.169,0.070 (Combined),
+383,11/27/2017,2AL - Post Lead Filter - Midpoint,0.0066,0.0045,0.0111,0.070 (Combined),
+384,11/27/2017,2AL - Post Lag Filter - Top,ND,ND,ND,0.070 (Combined),
+385,11/27/2017,4AL - Raw,0.031,0.014,0.045,0.070 (Combined),
+386,11/27/2017,4AL - Post Lead Filter,0.0085,0.0094,0.0179,0.070 (Combined),
+387,11/27/2017,4AL - Post Lag Filter (finished water),ND,ND,ND,0.070 (Combined),
+388,11/27/2017,5AL,0.0025,0.0029,0.0054,0.070 (Combined),
+389,11/27/2017,TW2,ND,ND,ND,0.070 (Combined),
+390,11/27/2017,TW5,ND,0.0031,0.0031,0.070 (Combined),
+391,11/27/2017,20B Raw,ND,ND,ND,0.070 (Combined),
+392,11/27/2017,EPDS 002 (20B Blended),ND,ND,ND,0.070 (Combined),
+393,11/27/2017,EPDS 005 (10AL),0.029,0.019,0.048,0.070 (Combined),
+394,11/27/2017,EPDS 006 (34C),ND,ND,ND,0.070 (Combined),
+395,11/27/2017,EPDS 001 (TWR),ND,0.0028,0.0028,0.070 (Combined),
+396,11/27/2017,EPDS 003 (ALR),ND,0.0026,0.0026,0.070 (Combined),
+397,12/20/2017,2AL - Raw,0.15,0.03,0.18,0.070 (Combined),
+398,12/20/2017,2AL - Post Lead Filter - Bottom,ND,ND,ND,0.070 (Combined),
+399,12/20/2017,2AL - Post Lag Filter - Top,ND,ND,ND,0.070 (Combined),
+400,12/20/2017,4AL - Raw,0.029,0.013,0.042,0.070 (Combined),
+401,12/20/2017,4AL - Post Lead Filter,0.01,0.0097,0.0197,0.070 (Combined),
+402,12/20/2017,4AL - Post Lag Filter (finished water),ND,0.0033,0.0033,0.070 (Combined),
+403,12/20/2017,5AL,0.0033,0.004,0.0073,0.070 (Combined),
+404,12/20/2017,TW2,ND,ND,ND,0.070 (Combined),
+405,12/20/2017,EPDS 005 (10AL),0.031,0.018,0.049,0.070 (Combined),
+406,12/20/2017,EPDS 006 (34C),ND,ND,ND,0.070 (Combined),
+407,12/20/2017,EPDS 001 (TWR),ND,ND,ND,0.070 (Combined),
+408,12/20/2017,EPDS 003 (ALR),ND,0.0031,0.0031,0.070 (Combined),
+409,2/25/2016,2AL Raw,0.2,0.05,0.25,0.070 (Combined),
+410,2/25/2016,10AL,ND,0.02,0.02,0.070 (Combined),
+411,4/20/2016,4AL,0.110,0.034,0.144,0.070 (Combined),0.0635
+412,4/20/2016,5AL,0.0055,0.0060,0.0115,0.070 (Combined),0.0100
+413,4/20/2016,9AL,0.035,0.015,0.050,0.070 (Combined),0.0206
+414,4/20/2016,10AL,0.029,0.023,0.052,0.070 (Combined),0.0634
+415,5/11/2016,2AL Raw,0.19,0.044,0.234,0.070 (Combined),0.1331
+416,5/26/2016,ALR Influent,0.019,0.0096,0.0286,0.070 (Combined),0.0141
+417,5/26/2016,ALR Post Treatment,0.019,0.0093,0.0283,0.070 (Combined),0.0135
+418,5/26/2016,EPDS 003 (ALR),0.019,0.0094,0.0284,0.070 (Combined),0.0135
+419,5/26/2016,TWR Influent,ND,ND,ND,0.070 (Combined),0.0034
+420,5/26/2016,TWR Post Treatment,ND,ND,ND,0.070 (Combined),0.0032
+421,5/26/2016,EPDS 001 (TWR),ND,0.0029,0.0029,0.070 (Combined),0.0042
+422,5/26/2016,EPDS 006 (34C),ND,ND,ND,0.070 (Combined),ND
+423,5/26/2016,5AL,ND,0.0028,0.0028,0.070 (Combined),0.0046
+424,5/26/2016,9AL,0.034,0.015,0.049,0.070 (Combined),0.0203
+425,5/26/2016,Goodyear West Interconnect,ND,0.0036,0.0036,0.070 (Combined),0.0062
+426,7/1/2016,2AL Raw,0.190,0.045,0.235,0.070 (Combined),0.1359
+427,7/1/2016,2AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),ND
+428,7/14/2016,2AL Post Lead,ND,ND,ND,0.070 (Combined),
+429,7/17/2016,4AL,0.100,0.033,0.133,0.070 (Combined),0.0643
+430,7/27/2016,4AL,0.074,0.024,0.098,0.070 (Combined),
+431,7/29/2016,2AL Raw,0.18,0.044,0.224,0.070 (Combined),0.116
+432,7/29/2016,2AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),ND
+433,8/5/2016,2AL Post Lead,ND,ND,ND,0.070 (Combined),
+434,8/22/2016,2AL Raw,0.19,0.037,0.227,0.070 (Combined),
+435,8/22/2016,2AL Post Lead,0.016,0.0048,0.0208,0.070 (Combined),
+436,9/27/2016,4AL,0.069,0.032,0.101,0.070 (Combined),
+437,9/27/2016,2AL Post Lead,0.028,0.0095,0.0375,0.070 (Combined),
+438,10/10/2016,2AL Post Lead,0.03,0.0062,0.0362,0.070 (Combined),
+439,10/10/2016,2AL Post Lag (finished water),ND,ND,ND,0.070 (Combined),
+440,10/20/2016,2AL Raw,0.19,0.045,0.235,0.070 (Combined),
+441,10/20/2016,2AL Post Lead,0.053,0.018,0.071,0.070 (Combined),
+442,10/20/2016,2AL Post Lag (finished water),0.0047,ND,0.0047,0.070 (Combined),
+443,10/26/2016,2AL Raw,0.23,0.042,0.272,0.070 (Combined),
+444,10/26/2016,2AL Post Lead,0.051,0.016,0.067,0.070 (Combined),
+445,10/26/2016,2AL Post Lag (finished water),0.0042,0.004,0.0082,0.070 (Combined),
+446,11/2/2016,2AL Raw,0.18,0.041,0.221,0.070 (Combined),
+447,11/2/2016,2AL Post Lead,0.056,0.018,0.074,0.070 (Combined),
+448,11/2/2016,2AL Post Lag (finished water),0.0086,0.0038,0.0124,0.070 (Combined),
+449,11/10/2016,5AL Raw,ND,0.0032,0.0032,0.070 (Combined),
+450,11/10/2016,9AL Raw,0.028,0.014,0.042,0.070 (Combined),
+451,11/10/2016,TW5 Raw,ND,0.0034,0.0034,0.070 (Combined),
+452,11/10/2016,TW1 Raw,ND,ND,ND,0.070 (Combined),
+453,11/10/2016,TW2 Raw,ND,ND,ND,0.070 (Combined),
+454,11/10/2016,34C Raw - EPDS 006,ND,ND,ND,0.070 (Combined),
+455,11/16/2016,4AL Raw,0.064,0.028,0.092,0.070 (Combined),
+456,11/16/2016,EPDS 003 - 10AL Raw,0.044,0.025,0.069,0.070 (Combined),
+457,11/16/2016,TW4 Raw,ND,0.0028,0.0028,0.070 (Combined),
+458,11/16/2016,TW6 Raw,ND,0.0028,0.0028,0.070 (Combined),
+459,11/16/2016,20B Raw,ND,ND,ND,0.070 (Combined),
+460,11/17/2016,6AL 1st Draw,0.042,0.025,0.067,0.070 (Combined),
+461,5/6/2014,EPDS 002 (20B ATF),ND,ND,ND,0.070 (Combined),
+462,5/6/2014,EPDS 003 (Airline Reservoir),ND,ND,ND,0.070 (Combined),
+463,5/6/2014,EPDS 001 (Townwell Reservoir),ND,ND,ND,0.070 (Combined),
+464,5/15/2014,EPDS 005 (Well 10AL),ND,ND,ND,0.070 (Combined),
+465,5/15/2014,EPDS 006 (Well 34C),ND,ND,ND,0.070 (Combined),
+466,5/29/2014,EPDS 004 (Well 2AL),0.22,0.05,0.27,0.070 (Combined),
+467,11/5/2014,EPDS 001 (Townwell Reservoir),ND,ND,ND,0.070 (Combined),
+468,11/5/2014,EPDS 002 (20B ATF),ND,ND,ND,0.070 (Combined),
+469,11/6/2014,EPDS 003 (Airline Reservoir),ND,ND,ND,0.070 (Combined),
+470,11/6/2014,EPDS 005 (Well 10AL),ND,ND,ND,0.070 (Combined),
+471,11/18/2014,EPDS 004 (Well 2AL),0.19,0.05,0.24,0.070 (Combined),
+472,11/19/2014,EPDS 006 (Well 34C),ND,ND,ND,0.070 (Combined),

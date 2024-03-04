@@ -1,0 +1,201 @@
+,Analyte,Result,Qualifier,RL,MDL,Units,Dil Fac,Method,Prep Type,Sample ID
+0,Perfluoropentanoic acid (PFPeA),0.64,J,1.9,0.46,ng/L,1,537 (modified),Total/NA, 320-66162-1
+1,Perfluorohexanoic acid (PFHxA),1.0,J,1.9,0.54,ng/L,1,537 (modified),Total/NA, 320-66162-1
+2,Perfluoroheptanoic acid (PFHpA),0.86,J,1.9,0.23,ng/L,1,537 (modified),Total/NA, 320-66162-1
+3,Perfluorooctanoic acid (PFOA),31.0,,1.9,0.80,ng/L,1,537 (modified),Total/NA, 320-66162-1
+4,Perfluorobutanesulfonic acid (PFBS),1.0,J,1.9,0.19,ng/L,1,537 (modified),Total/NA, 320-66162-1
+5,Perfluoropentanesulfonic acid,0.9,J,1.9,0.28,ng/L,1,537 (modified),Total/NA, 320-66162-1
+6,Perfluorohexanesulfonic acid (PFHxS),3.1,,1.9,0.53,ng/L,1,537 (modified),Total/NA, 320-66162-1
+7,Perfluorooctanesulfonic acid (PFOS),2.8,I,1.9,0.51,ng/L,1,537 (modified),Total/NA, 320-66162-1
+8,Perfluorooctanesulfonamide (FOSA),1.7,J,1.9,0.92,ng/L,1,537 (modified),Total/NA, 320-66162-1
+9,Perfluorooctanesulfonamide (FOSA),3.4,,1.9,0.92,ng/L,1,537 (modified),Total/NA, 320-66162-2
+10,Perfluorooctanesulfonic acid (PFOS),2.1,I,1.9,0.51,ng/L,1,537 (modified),Total/NA, 320-66162-2
+11,Perfluorohexanesulfonic acid (PFHxS),2.3,,1.9,0.54,ng/L,1,537 (modified),Total/NA, 320-66162-2
+12,Perfluoropentanesulfonic acid,0.76,J,1.9,0.28,ng/L,1,537 (modified),Total/NA, 320-66162-2
+13,Perfluorohexanoic acid (PFHxA),0.63,J,1.9,0.55,ng/L,1,537 (modified),Total/NA, 320-66162-2
+14,Perfluorooctanoic acid (PFOA),34.0,,1.9,0.80,ng/L,1,537 (modified),Total/NA, 320-66162-2
+15,Perfluoroheptanoic acid (PFHpA),0.34,J,1.9,0.24,ng/L,1,537 (modified),Total/NA, 320-66162-2
+16,Perfluoropentanoic acid (PFPeA),0.5,J,1.9,0.46,ng/L,1,537 (modified),Total/NA, 320-66162-2
+17,Perfluorobutanesulfonic acid (PFBS),0.94,J,1.9,0.19,ng/L,1,537 (modified),Total/NA, 320-66162-2
+18,Perfluorohexanesulfonic acid (PFHxS),1.3,J,1.9,0.55,ng/L,1,537 (modified),Total/NA, 320-66162-3
+19,Perfluorooctanesulfonamide (FOSA),6.9,,1.9,0.94,ng/L,1,537 (modified),Total/NA, 320-66162-3
+20,Perfluorobutanesulfonic acid (PFBS),0.55,J,1.9,0.19,ng/L,1,537 (modified),Total/NA, 320-66162-3
+21,Perfluoropentanesulfonic acid,0.34,J,1.9,0.29,ng/L,1,537 (modified),Total/NA, 320-66162-3
+22,Perfluoroheptanoic acid (PFHpA),0.37,J,1.9,0.24,ng/L,1,537 (modified),Total/NA, 320-66162-3
+23,Perfluoropentanoic acid (PFPeA),0.5,J,1.9,0.47,ng/L,1,537 (modified),Total/NA, 320-66162-3
+24,Perfluorooctanoic acid (PFOA),16.0,,1.9,0.82,ng/L,1,537 (modified),Total/NA, 320-66162-3
+25,Perfluoroheptanoic acid (PFHpA),0.27,J,1.9,0.24,ng/L,1,537 (modified),Total/NA, 320-66162-4
+26,Perfluorooctanoic acid (PFOA),12.0,,1.9,0.82,ng/L,1,537 (modified),Total/NA, 320-66162-4
+27,Perfluorobutanesulfonic acid (PFBS),0.46,J,1.9,0.19,ng/L,1,537 (modified),Total/NA, 320-66162-4
+28,Perfluoropentanesulfonic acid,0.37,J,1.9,0.29,ng/L,1,537 (modified),Total/NA, 320-66162-4
+29,Perfluorohexanesulfonic acid (PFHxS),1.3,J,1.9,0.55,ng/L,1,537 (modified),Total/NA, 320-66162-4
+30,Perfluorooctanesulfonamide (FOSA),1.4,J,1.9,0.94,ng/L,1,537 (modified),Total/NA, 320-66162-4
+31,Perfluorobutanesulfonic acid (PFBS),0.53,J,1.9,0.19,ng/L,1,537 (modified),Total/NA, 320-66162-5
+32,Perfluorooctanesulfonamide (FOSA),4.9,,1.9,0.92,ng/L,1,537 (modified),Total/NA, 320-66162-5
+33,Perfluorohexanesulfonic acid (PFHxS),1.0,J,1.9,0.53,ng/L,1,537 (modified),Total/NA, 320-66162-5
+34,Perfluorooctanoic acid (PFOA),3.6,,1.9,0.80,ng/L,1,537 (modified),Total/NA, 320-66162-5
+35,Perfluoropentanoic acid (PFPeA),0.51,J,1.9,0.46,ng/L,1,537 (modified),Total/NA, 320-66162-5
+36,Perfluoropentanesulfonic acid,0.31,J,1.9,0.28,ng/L,1,537 (modified),Total/NA, 320-66162-5
+37,Perfluorooctanesulfonamide (FOSA),15.0,,1.9,0.93,ng/L,1,537 (modified),Total/NA, 320-66162-6
+38,Perfluorooctanesulfonamide (FOSA),9.5,,1.9,0.91,ng/L,1,537 (modified),Total/NA, 320-66162-7
+39,Perfluorooctanesulfonamide (FOSA),1.4,J,1.8,0.88,ng/L,1,537 (modified),Total/NA, 320-66162-8
+40,Perfluorooctanoic acid (PFOA),4.8,,1.8,0.76,ng/L,1,537 (modified),Total/NA, 320-66162-8
+41,Perfluorobutanesulfonic acid (PFBS),0.19,J,1.8,0.18,ng/L,1,537 (modified),Total/NA, 320-66162-8
+42,Perfluorooctanesulfonic acid (PFOS),0.94,J,1.8,0.50,ng/L,1,537 (modified),Total/NA, 320-66162-9
+43,Perfluorohexanesulfonic acid (PFHxS),3.1,,1.8,0.52,ng/L,1,537 (modified),Total/NA, 320-66162-9
+44,Perfluorooctanesulfonamide (FOSA),3.1,,1.8,0.90,ng/L,1,537 (modified),Total/NA, 320-66162-9
+45,Perfluoropentanesulfonic acid,1.6,J,1.8,0.28,ng/L,1,537 (modified),Total/NA, 320-66162-9
+46,Perfluorooctanoic acid (PFOA),25.0,,1.8,0.78,ng/L,1,537 (modified),Total/NA, 320-66162-9
+47,Perfluorohexanoic acid (PFHxA),0.96,J,1.8,0.53,ng/L,1,537 (modified),Total/NA, 320-66162-9
+48,Perfluorobutanoic acid (PFBA),6.7,,4.6,2.2,ng/L,1,537 (modified),Total/NA, 320-66162-9
+49,Perfluorobutanesulfonic acid (PFBS),2.1,,1.8,0.18,ng/L,1,537 (modified),Total/NA, 320-66162-9
+50,Perfluorodecanesulfonic acid (PFDS),15.0,,0.24,0.047,ug/Kg,1,537 (modified),Total/NA, 320-66162-10
+51,Perfluorooctanesulfonic acid (PFOS) ,88.0,H E,0.60,0.24,ug/Kg,1,537 (modified),Total/NA, 320-66162-10
+52,10:2 FTS,0.51,,0.24,0.060,ug/Kg,1,537 (modified),Total/NA, 320-66162-10
+53,NEtFOSE,10.0,,0.24,0.043,ug/Kg,1,537 (modified),Total/NA, 320-66162-10
+54,NMeFOSE,60.0,E,0.24,0.085,ug/Kg,1,537 (modified),Total/NA, 320-66162-10
+55,NEtFOSAA,32.0,E,2.4,0.44,ug/Kg,1,537 (modified),Total/NA, 320-66162-10
+56,NMeFOSAA,77.0,E,2.4,0.47,ug/Kg,1,537 (modified),Total/NA, 320-66162-10
+57,NMeFOSA,0.24,,0.24,0.049,ug/Kg,1,537 (modified),Total/NA, 320-66162-10
+58,NEtFOSA,0.14,J,0.24,0.029,ug/Kg,1,537 (modified),Total/NA, 320-66162-10
+59,Perfluorooctanesulfonamide (FOSA),7.3,F1,0.24,0.098,ug/Kg,1,537 (modified),Total/NA, 320-66162-10
+60,Perfluorononanesulfonic acid (PFNS),0.28,,0.24,0.024,ug/Kg,1,537 (modified),Total/NA, 320-66162-10
+61,Perfluorooctanesulfonic acid (PFOS),100.0,E B *,0.60,0.24,ug/Kg,1,537 (modified),Total/NA, 320-66162-10
+62,Perfluorohexanesulfonic acid (PFHxS),5.2,,0.24,0.037,ug/Kg,1,537 (modified),Total/NA, 320-66162-10
+63,Perfluoroheptanesulfonic Acid,1.4,,0.24,0.042,ug/Kg,1,537 (modified),Total/NA, 320-66162-10
+64,Perfluorooctanoic acid (PFOA),39.0,E,0.24,0.10,ug/Kg,1,537 (modified),Total/NA, 320-66162-10
+65,Perfluorobutanesulfonic acid (PFBS),1.0,,0.24,0.030,ug/Kg,1,537 (modified),Total/NA, 320-66162-10
+66,Perfluorotetradecanoic acid (PFTeA),1.3,,0.24,0.065,ug/Kg,1,537 (modified),Total/NA, 320-66162-10
+67,Perfluorotridecanoic acid (PFTriA),0.34,I,0.24,0.061,ug/Kg,1,537 (modified),Total/NA, 320-66162-10
+68,Perfluorododecanoic acid (PFDoA),4.0,F1,0.24,0.080,ug/Kg,1,537 (modified),Total/NA, 320-66162-10
+69,Perfluoroundecanoic acid (PFUnA),1.9,I,0.24,0.043,ug/Kg,1,537 (modified),Total/NA, 320-66162-10
+70,Perfluorodecanoic acid (PFDA),9.1,F1,0.24,0.026,ug/Kg,1,537 (modified),Total/NA, 320-66162-10
+71,Perfluorononanoic acid (PFNA),4.2,,0.24,0.043,ug/Kg,1,537 (modified),Total/NA, 320-66162-10
+72,Perfluoropentanesulfonic acid,1.1,,0.24,0.024,ug/Kg,1,537 (modified),Total/NA, 320-66162-10
+73,Perfluoroheptanoic acid (PFHpA),7.5,F1,0.24,0.035,ug/Kg,1,537 (modified),Total/NA, 320-66162-10
+74,Perfluorohexanoic acid (PFHxA),5.8,,0.24,0.050,ug/Kg,1,537 (modified),Total/NA, 320-66162-10
+75,Perfluoropentanoic acid (PFPeA),4.2,,0.24,0.092,ug/Kg,1,537 (modified),Total/NA, 320-66162-10
+76,Perfluorobutanoic acid (PFBA),2.0,,0.24,0.034,ug/Kg,1,537 (modified),Total/NA, 320-66162-10
+77,Perfluorodecanesulfonic acid (PFDS),7.8,,0.23,0.044,ug/Kg,1,537 (modified),Total/NA, 320-66162-11
+78,Perfluorooctanesulfonamide (FOSA),5.4,,0.23,0.093,ug/Kg,1,537 (modified),Total/NA, 320-66162-11
+79,Perfluorooctanesulfonic acid (PFOS),72.0,E B *,0.57,0.23,ug/Kg,1,537 (modified),Total/NA, 320-66162-11
+80,Perfluorononanesulfonic acid (PFNS),0.4,,0.23,0.023,ug/Kg,1,537 (modified),Total/NA, 320-66162-11
+81,NEtFOSA,0.33,,0.23,0.027,ug/Kg,1,537 (modified),Total/NA, 320-66162-11
+82,Perfluoroheptanesulfonic Acid,0.37,,0.23,0.040,ug/Kg,1,537 (modified),Total/NA, 320-66162-11
+83,NMeFOSAA,12.0,,2.3,0.44,ug/Kg,1,537 (modified),Total/NA, 320-66162-11
+84,NEtFOSAA,37.0,E,2.3,0.42,ug/Kg,1,537 (modified),Total/NA, 320-66162-11
+85,NEtFOSE,12.0,,0.23,0.041,ug/Kg,1,537 (modified),Total/NA, 320-66162-11
+86,Perfluorooctanesulfonic acid (PFOS) ,66.0,H E,0.57,0.23,ug/Kg,1,537 (modified),Total/NA, 320-66162-11
+87,NMeFOSA,0.13,J,0.23,0.047,ug/Kg,1,537 (modified),Total/NA, 320-66162-11
+88,Perfluorohexanesulfonic acid (PFHxS),0.54,,0.23,0.035,ug/Kg,1,537 (modified),Total/NA, 320-66162-11
+89,NMeFOSE,50.0,E,0.23,0.081,ug/Kg,1,537 (modified),Total/NA, 320-66162-11
+90,Perfluorobutanesulfonic acid (PFBS),0.037,J,0.23,0.028,ug/Kg,1,537 (modified),Total/NA, 320-66162-11
+91,Perfluorohexanoic acid (PFHxA),0.066,J,0.23,0.048,ug/Kg,1,537 (modified),Total/NA, 320-66162-11
+92,Perfluoropentanesulfonic acid,0.056,J,0.23,0.023,ug/Kg,1,537 (modified),Total/NA, 320-66162-11
+93,Perfluoroheptanoic acid (PFHpA),0.17,J,0.23,0.033,ug/Kg,1,537 (modified),Total/NA, 320-66162-11
+94,Perfluorooctanoic acid (PFOA),3.4,,0.23,0.098,ug/Kg,1,537 (modified),Total/NA, 320-66162-11
+95,Perfluorononanoic acid (PFNA),0.71,,0.23,0.041,ug/Kg,1,537 (modified),Total/NA, 320-66162-11
+96,Perfluorobutanoic acid (PFBA),0.068,J,0.23,0.032,ug/Kg,1,537 (modified),Total/NA, 320-66162-11
+97,Perfluoroundecanoic acid (PFUnA),0.88,,0.23,0.041,ug/Kg,1,537 (modified),Total/NA, 320-66162-11
+98,Perfluorododecanoic acid (PFDoA),1.1,,0.23,0.076,ug/Kg,1,537 (modified),Total/NA, 320-66162-11
+99,Perfluorotridecanoic acid (PFTriA),0.19,J I,0.23,0.058,ug/Kg,1,537 (modified),Total/NA, 320-66162-11
+100,Perfluorotetradecanoic acid (PFTeA),0.34,,0.23,0.062,ug/Kg,1,537 (modified),Total/NA, 320-66162-11
+101,Perfluorodecanoic acid (PFDA),2.7,,0.23,0.025,ug/Kg,1,537 (modified),Total/NA, 320-66162-11
+102,Perfluorooctanesulfonic acid (PFOS),67.0,E B *,0.54,0.21,ug/Kg,1,537 (modified),Total/NA, 320-66162-12
+103,Perfluorononanesulfonic acid (PFNS),0.24,,0.21,0.021,ug/Kg,1,537 (modified),Total/NA, 320-66162-12
+104,Perfluorooctanesulfonamide (FOSA),4.9,,0.21,0.088,ug/Kg,1,537 (modified),Total/NA, 320-66162-12
+105,NEtFOSA,0.052,J,0.21,0.026,ug/Kg,1,537 (modified),Total/NA, 320-66162-12
+106,NMeFOSA,0.1,J,0.21,0.044,ug/Kg,1,537 (modified),Total/NA, 320-66162-12
+107,NEtFOSAA,37.0,E,2.1,0.40,ug/Kg,1,537 (modified),Total/NA, 320-66162-12
+108,NMeFOSE,38.0,E,0.21,0.076,ug/Kg,1,537 (modified),Total/NA, 320-66162-12
+109,NEtFOSE,12.0,,0.21,0.039,ug/Kg,1,537 (modified),Total/NA, 320-66162-12
+110,Perfluorooctanesulfonic acid (PFOS) ,63.0,H E,0.56,0.22,ug/Kg,1,537 (modified),Total/NA, 320-66162-12
+111,Perfluoroheptanesulfonic Acid,0.42,,0.21,0.038,ug/Kg,1,537 (modified),Total/NA, 320-66162-12
+112,NMeFOSAA,9.9,,2.1,0.42,ug/Kg,1,537 (modified),Total/NA, 320-66162-12
+113,Perfluorohexanesulfonic acid (PFHxS),0.5,,0.21,0.033,ug/Kg,1,537 (modified),Total/NA, 320-66162-12
+114,Perfluorodecanesulfonic acid (PFDS),7.3,,0.21,0.042,ug/Kg,1,537 (modified),Total/NA, 320-66162-12
+115,Perfluorobutanesulfonic acid (PFBS),0.045,J,0.21,0.027,ug/Kg,1,537 (modified),Total/NA, 320-66162-12
+116,Perfluorotetradecanoic acid (PFTeA),0.29,,0.21,0.058,ug/Kg,1,537 (modified),Total/NA, 320-66162-12
+117,Perfluorotridecanoic acid (PFTriA),0.16,J,0.21,0.055,ug/Kg,1,537 (modified),Total/NA, 320-66162-12
+118,Perfluorododecanoic acid (PFDoA),1.0,,0.21,0.072,ug/Kg,1,537 (modified),Total/NA, 320-66162-12
+119,Perfluoroundecanoic acid (PFUnA),0.85,,0.21,0.039,ug/Kg,1,537 (modified),Total/NA, 320-66162-12
+120,Perfluorodecanoic acid (PFDA),2.9,,0.21,0.024,ug/Kg,1,537 (modified),Total/NA, 320-66162-12
+121,Perfluorononanoic acid (PFNA),0.64,,0.21,0.039,ug/Kg,1,537 (modified),Total/NA, 320-66162-12
+122,Perfluorooctanoic acid (PFOA),3.2,,0.21,0.092,ug/Kg,1,537 (modified),Total/NA, 320-66162-12
+123,Perfluoroheptanoic acid (PFHpA),0.15,J,0.21,0.031,ug/Kg,1,537 (modified),Total/NA, 320-66162-12
+124,Perfluorohexanoic acid (PFHxA),0.066,J,0.21,0.045,ug/Kg,1,537 (modified),Total/NA, 320-66162-12
+125,Perfluorobutanoic acid (PFBA),0.043,J,0.21,0.030,ug/Kg,1,537 (modified),Total/NA, 320-66162-12
+126,Perfluoropentanesulfonic acid,0.086,J I,0.21,0.021,ug/Kg,1,537 (modified),Total/NA, 320-66162-12
+127,No Detections,,,,,,,,,320-66162-13
+128,Perfluorooctanesulfonamide (FOSA),3.0,,1.9,0.95,ng/L,1,537 (modified),Total/NA, 320-66162-14
+129,Perfluorohexanesulfonic acid (PFHxS),3.0,,1.9,0.56,ng/L,1,537 (modified),Total/NA, 320-66162-14
+130,Perfluoropentanesulfonic acid,1.1,J,1.9,0.29,ng/L,1,537 (modified),Total/NA, 320-66162-14
+131,Perfluorobutanesulfonic acid (PFBS),1.1,J,1.9,0.19,ng/L,1,537 (modified),Total/NA, 320-66162-14
+132,Perfluoroheptanoic acid (PFHpA),0.74,J,1.9,0.24,ng/L,1,537 (modified),Total/NA, 320-66162-14
+133,Perfluorohexanoic acid (PFHxA),0.79,J,1.9,0.56,ng/L,1,537 (modified),Total/NA, 320-66162-14
+134,Perfluoropentanoic acid (PFPeA),0.68,J,1.9,0.48,ng/L,1,537 (modified),Total/NA, 320-66162-14
+135,Perfluorooctanoic acid (PFOA),37.0,,1.9,0.83,ng/L,1,537 (modified),Total/NA, 320-66162-14
+136,Perfluorohexanoic acid (PFHxA),0.56,J,1.9,0.55,ng/L,1,537 (modified),Total/NA, 320-66162-15
+137,Perfluoroheptanoic acid (PFHpA),0.38,J,1.9,0.24,ng/L,1,537 (modified),Total/NA, 320-66162-15
+138,Perfluorooctanoic acid (PFOA),31.0,,1.9,0.81,ng/L,1,537 (modified),Total/NA, 320-66162-15
+139,Perfluorobutanesulfonic acid (PFBS),0.75,J,1.9,0.19,ng/L,1,537 (modified),Total/NA, 320-66162-15
+140,Perfluoropentanesulfonic acid,0.56,J,1.9,0.29,ng/L,1,537 (modified),Total/NA, 320-66162-15
+141,Perfluorohexanesulfonic acid (PFHxS),2.0,,1.9,0.54,ng/L,1,537 (modified),Total/NA, 320-66162-15
+142,Perfluorooctanesulfonamide (FOSA),3.5,,1.9,0.93,ng/L,1,537 (modified),Total/NA, 320-66162-15
+143,Perfluoropentanesulfonic acid,1.6,J,1.9,0.29,ng/L,1,537 (modified),Total/NA, 320-66162-16
+144,Perfluorooctanesulfonic acid (PFOS),3.5,,1.9,0.53,ng/L,1,537 (modified),Total/NA, 320-66162-16
+145,Perfluorooctanesulfonamide (FOSA),1.2,J,1.9,0.95,ng/L,1,537 (modified),Total/NA, 320-66162-16
+146,Perfluorohexanesulfonic acid (PFHxS),5.5,,1.9,0.55,ng/L,1,537 (modified),Total/NA, 320-66162-16
+147,Perfluorobutanesulfonic acid (PFBS),1.8,J,1.9,0.19,ng/L,1,537 (modified),Total/NA, 320-66162-16
+148,Perfluoropentanoic acid (PFPeA),2.5,,1.9,0.48,ng/L,1,537 (modified),Total/NA, 320-66162-16
+149,Perfluoroheptanoic acid (PFHpA),1.5,J,1.9,0.24,ng/L,1,537 (modified),Total/NA, 320-66162-16
+150,Perfluorohexanoic acid (PFHxA),3.7,,1.9,0.56,ng/L,1,537 (modified),Total/NA, 320-66162-16
+151,Perfluorobutanoic acid (PFBA),8.4,,4.9,2.3,ng/L,1,537 (modified),Total/NA, 320-66162-16
+152,Perfluorooctanoic acid (PFOA),110.0,,1.9,0.83,ng/L,1,537 (modified),Total/NA, 320-66162-16
+153,Perfluorooctanesulfonic acid (PFOS),8.1,,1.9,0.51,ng/L,1,537 (modified),Total/NA, 320-66162-17
+154,Perfluorohexanesulfonic acid (PFHxS),8.2,,1.9,0.53,ng/L,1,537 (modified),Total/NA, 320-66162-17
+155,Perfluoropentanesulfonic acid,1.6,J,1.9,0.28,ng/L,1,537 (modified),Total/NA, 320-66162-17
+156,Perfluorobutanesulfonic acid (PFBS),2.2,,1.9,0.19,ng/L,1,537 (modified),Total/NA, 320-66162-17
+157,Perfluorononanoic acid (PFNA),0.45,J,1.9,0.25,ng/L,1,537 (modified),Total/NA, 320-66162-17
+158,Perfluoroheptanesulfonic Acid,0.48,J,1.9,0.18,ng/L,1,537 (modified),Total/NA, 320-66162-17
+159,Perfluoroheptanoic acid (PFHpA),3.2,,1.9,0.23,ng/L,1,537 (modified),Total/NA, 320-66162-17
+160,Perfluorohexanoic acid (PFHxA),4.7,,1.9,0.54,ng/L,1,537 (modified),Total/NA, 320-66162-17
+161,Perfluoropentanoic acid (PFPeA),3.2,,1.9,0.46,ng/L,1,537 (modified),Total/NA, 320-66162-17
+162,Perfluorobutanoic acid (PFBA),5.8,,4.7,2.2,ng/L,1,537 (modified),Total/NA, 320-66162-17
+163,Perfluorooctanoic acid (PFOA),220.0,,1.9,0.80,ng/L,1,537 (modified),Total/NA, 320-66162-17
+164,Perfluorooctanesulfonamide (FOSA),6.9,,1.9,0.95,ng/L,1,537 (modified),Total/NA, 320-66162-18
+165,Perfluorooctanesulfonic acid (PFOS),2.5,I,1.9,0.52,ng/L,1,537 (modified),Total/NA, 320-66162-18
+166,Perfluorohexanesulfonic acid (PFHxS),3.2,,1.9,0.55,ng/L,1,537 (modified),Total/NA, 320-66162-18
+167,Perfluoropentanesulfonic acid,0.9,J,1.9,0.29,ng/L,1,537 (modified),Total/NA, 320-66162-18
+168,Perfluorooctanoic acid (PFOA),33.0,,1.9,0.82,ng/L,1,537 (modified),Total/NA, 320-66162-18
+169,Perfluoroheptanoic acid (PFHpA),0.72,J,1.9,0.24,ng/L,1,537 (modified),Total/NA, 320-66162-18
+170,Perfluorohexanoic acid (PFHxA),0.77,J,1.9,0.56,ng/L,1,537 (modified),Total/NA, 320-66162-18
+171,Perfluoropentanoic acid (PFPeA),0.58,J,1.9,0.48,ng/L,1,537 (modified),Total/NA, 320-66162-18
+172,Perfluorobutanesulfonic acid (PFBS),1.1,J,1.9,0.19,ng/L,1,537 (modified),Total/NA, 320-66162-18
+173,Perfluorohexanesulfonic acid (PFHxS),4.6,,1.7,0.49,ng/L,1,537 (modified),Total/NA, 320-66162-19
+174,Perfluorooctanesulfonic acid (PFOS),4.4,I,1.7,0.46,ng/L,1,537 (modified),Total/NA, 320-66162-19
+175,Perfluorooctanesulfonamide (FOSA),1.8,,1.7,0.83,ng/L,1,537 (modified),Total/NA, 320-66162-19
+176,Perfluoropentanesulfonic acid,1.5,J,1.7,0.26,ng/L,1,537 (modified),Total/NA, 320-66162-19
+177,Perfluorohexanoic acid (PFHxA),1.5,J,1.7,0.49,ng/L,1,537 (modified),Total/NA, 320-66162-19
+178,Perfluorooctanoic acid (PFOA),67.0,,1.7,0.72,ng/L,1,537 (modified),Total/NA, 320-66162-19
+179,Perfluoroheptanoic acid (PFHpA),0.92,J,1.7,0.21,ng/L,1,537 (modified),Total/NA, 320-66162-19
+180,Perfluoropentanoic acid (PFPeA),0.79,J,1.7,0.42,ng/L,1,537 (modified),Total/NA, 320-66162-19
+181,Perfluorobutanesulfonic acid (PFBS),1.5,J,1.7,0.17,ng/L,1,537 (modified),Total/NA, 320-66162-19
+182,No Detections,,,,,,,,,320-66162-20
+183,Perfluoropentanoic acid (PFPeA),6.0,,1.9,0.46,ng/L,1,537 (modified),Total/NA, 320-66162-21
+184,Perfluorooctanesulfonamide (FOSA),5.6,,1.9,0.92,ng/L,1,537 (modified),Total/NA, 320-66162-21
+185,Perfluorooctanesulfonic acid (PFOS),22.0,,1.9,0.51,ng/L,1,537 (modified),Total/NA, 320-66162-21
+186,Perfluoroheptanesulfonic Acid,0.69,J,1.9,0.18,ng/L,1,537 (modified),Total/NA, 320-66162-21
+187,Perfluorobutanoic acid (PFBA),11.0,,4.7,2.3,ng/L,1,537 (modified),Total/NA, 320-66162-21
+188,Perfluoropentanesulfonic acid,2.3,,1.9,0.28,ng/L,1,537 (modified),Total/NA, 320-66162-21
+189,Perfluorohexanesulfonic acid (PFHxS),12.0,,1.9,0.53,ng/L,1,537 (modified),Total/NA, 320-66162-21
+190,Perfluorononanoic acid (PFNA),1.2,J,1.9,0.25,ng/L,1,537 (modified),Total/NA, 320-66162-21
+191,Perfluorooctanoic acid (PFOA),290.0,,1.9,0.80,ng/L,1,537 (modified),Total/NA, 320-66162-21
+192,Perfluoroheptanoic acid (PFHpA),6.1,,1.9,0.23,ng/L,1,537 (modified),Total/NA, 320-66162-21
+193,Perfluorohexanoic acid (PFHxA),7.6,,1.9,0.54,ng/L,1,537 (modified),Total/NA, 320-66162-21
+194,Perfluorobutanesulfonic acid (PFBS),3.6,,1.9,0.19,ng/L,1,537 (modified),Total/NA, 320-66162-21
+195,Perfluorodecanoic acid (PFDA),0.64,J,1.9,0.29,ng/L,1,537 (modified),Total/NA, 320-66162-21
+196,Perfluorooctanesulfonic acid (PFOS),0.91,J,1.8,0.47,ng/L,1,537 (modified),Total/NA, 320-66162-22
+197,Perfluorooctanoic acid (PFOA),8.0,,1.8,0.75,ng/L,1,537 (modified),Total/NA, 320-66162-22
+198,Perfluorobutanesulfonic acid (PFBS),0.42,J,1.8,0.18,ng/L,1,537 (modified),Total/NA, 320-66162-22
+199,Perfluorohexanesulfonic acid (PFHxS),0.59,J,1.8,0.50,ng/L,1,537 (modified),Total/NA, 320-66162-22

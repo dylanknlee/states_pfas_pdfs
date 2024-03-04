@@ -1,0 +1,78 @@
+,AFFF Release Area,Parameter,Maximum  Detected  Concentration,Screening  Value,Units,Number of  Samples*/ Number of  Exceedances,Exceeds  Screening  Level,Potentially  Complete  DW Exposure  Pathway,Recommendation,Sample Medium
+1,AFFF Release Area 1   FTA No. 1,PFOS,0.118,0.126,mg/kg,2/0,No,Yes,NFRAP,Surface Soil
+2,AFFF Release Area 1   FTA No. 1,PFOA,0.01,0.126,mg/kg,2/0,No,,,Surface Soil
+3,AFFF Release Area 1   FTA No. 1,PFBS,ND,130,mg/kg,2/0,No,,,Surface Soil
+5,AFFF Release Area 1   FTA No. 1,PFOS,0.0071,0.126,mg/kg,2/0,No,,NFRAP,Subsurface Soil
+6,AFFF Release Area 1   FTA No. 1,PFOA,0.00108 J,0.126,mg/kg,2/0,No,,,Subsurface Soil
+7,AFFF Release Area 1   FTA No. 1,PFBS,ND,130,mg/kg,2/0,No,,,Subsurface Soil
+9,AFFF Release Area 1   FTA No. 1,PFOS,159,0.07,µg/L,2/2,Yes,,Follow‐on SI,Groundwater
+10,AFFF Release Area 1   FTA No. 1,PFOA,16 J,0.07,µg/L,2/2,Yes,,,Groundwater
+11,AFFF Release Area 1   FTA No. 1,PFOS+PFOA,175,0.07,µg/L,2/2,Yes,,,Groundwater
+12,AFFF Release Area 1   FTA No. 1,PFBS,17.6 J,40,µg/L,2/0,No,,,Groundwater
+14,AFFF Release Area 2   FTA No. 2,PFOS,3.08,0.07,µg/L,3/2,Yes,No,Advance Area to RI,Groundwater
+15,AFFF Release Area 2   FTA No. 2,PFOA,4.49,0.07,µg/L,3/2,Yes,,,Groundwater
+16,AFFF Release Area 2   FTA No. 2,PFOS+PFOA,7.46,0.07,µg/L,3/2,Yes,,,Groundwater
+17,AFFF Release Area 2   FTA No. 2,PFBS,0.605,40,µg/L,3/0,No,,,Groundwater
+19,AFFF Release Area 3  Fire Station 1  (Building 251),PFOS,0.0709,0.126,mg/kg,2/0,No,Yes,NFRAP,Surface Soil
+20,AFFF Release Area 3  Fire Station 1  (Building 251),PFOA,0.00343,0.126,mg/kg,2/0,No,,,Surface Soil
+21,AFFF Release Area 3  Fire Station 1  (Building 251),PFBS,ND,130,mg/kg,2/0,No,,,Surface Soil
+23,AFFF Release Area 3  Fire Station 1  (Building 251),PFOS,0.063 J,0.126,mg/kg,2/0,No,,NFRAP,Subsurface Soil
+24,AFFF Release Area 3  Fire Station 1  (Building 251),PFOA,0.00392 J,0.126,mg/kg,2/0,No,,,Subsurface Soil
+25,AFFF Release Area 3  Fire Station 1  (Building 251),PFBS,ND,130,mg/kg,2/0,No,,,Subsurface Soil
+27,AFFF Release Area 3  Fire Station 1  (Building 251),PFOS,19.5,0.07,µg/L,2/2,Yes,Yes,Follow‐on SI,Groundwater
+28,AFFF Release Area 3  Fire Station 1  (Building 251),PFOA,4.03,0.07,µg/L,2/2,Yes,,,Groundwater
+29,AFFF Release Area 3  Fire Station 1  (Building 251),PFOS+PFOA,23.53,0.07,µg/L,2/2,Yes,,,Groundwater
+30,AFFF Release Area 3  Fire Station 1  (Building 251),PFBS,2.59,40,µg/L,2/0,No,,,Groundwater
+32,AFFF Release Area 4  Building 892,PFOS,0.583,0.126,mg/kg,1/1,Yes,No,Advance Area to RI,Surface Soil
+33,AFFF Release Area 4  Building 892,PFOA,0.00813,0.126,mg/kg,1/0,No,,,Surface Soil
+34,AFFF Release Area 4  Building 892,PFBS,0.00239 J,130,mg/kg,1/0,No,,,Surface Soil
+36,AFFF Release Area 4  Building 892,PFOS,1.32,0.126,mg/kg,1/1,Yes,,Advance Area to RI,Subsurface Soil
+37,AFFF Release Area 4  Building 892,PFOA,0.0105 J,0.126,mg/kg,1/0,No,,,Subsurface Soil
+38,AFFF Release Area 4  Building 892,PFBS,0.00425 J,130,mg/kg,1/0,No,,,Subsurface Soil
+40,AFFF Release Area 4  Building 892,PFOS,0.0605 B,0.07,µg/L,1/0,No,,Advance Area to RI,Groundwater
+41,AFFF Release Area 4  Building 892,PFOA,0.0601,0.07,µg/L,1/0,No,,,Groundwater
+42,AFFF Release Area 4  Building 892,PFOS+PFOA,0.1206,0.07,µg/L,1/1,Yes,,,Groundwater
+43,AFFF Release Area 4  Building 892,PFBS,ND,40,µg/L,1/0,No,,,Groundwater
+45,AFFF Release Area 5  Building 1576 and  Tank Dike 21,PFOS,0.00501 B,0.126,mg/kg,2/0,No,No,NFRAP,Surface Soil
+46,AFFF Release Area 5  Building 1576 and  Tank Dike 21,PFOA,ND,0.126,mg/kg,2/0,No,,,Surface Soil
+47,AFFF Release Area 5  Building 1576 and  Tank Dike 21,PFBS,ND,130,mg/kg,2/0,No,,,Surface Soil
+49,AFFF Release Area 5  Building 1576 and  Tank Dike 21,PFOS,0.00393 B,0.126,mg/kg,2/0,No,,NFRAP,Subsurface Soil
+50,AFFF Release Area 5  Building 1576 and  Tank Dike 21,PFOA,ND,0.126,mg/kg,2/0,No,,,Subsurface Soil
+51,AFFF Release Area 5  Building 1576 and  Tank Dike 21,PFBS,ND,130,mg/kg,2/0,No,,,Subsurface Soil
+53,AFFF Release Area 5  Building 1576 and  Tank Dike 21,PFOS,5.89,0.07,µg/L,3/2,Yes,No,Advance Area to RI,Groundwater
+54,AFFF Release Area 5  Building 1576 and  Tank Dike 21,PFOA,0.376,0.07,µg/L,3/2,Yes,,,Groundwater
+55,AFFF Release Area 5  Building 1576 and  Tank Dike 21,PFOS+PFOA,6.266,0.07,µg/L,3/2,Yes,,,Groundwater
+56,AFFF Release Area 5  Building 1576 and  Tank Dike 21,PFBS,0.364,40,µg/L,3/0,No,,,Groundwater
+58,AFFF Release Area 5  Building 1576 and  Tank Dike 21,PFOS,0.0189,0.126,mg/kg,1/0,No,,NFRAP,Sediment
+59,AFFF Release Area 5  Building 1576 and  Tank Dike 21,PFOA,ND,0.126,mg/kg,1/0,No,,,Sediment
+60,AFFF Release Area 5  Building 1576 and  Tank Dike 21,PFBS,ND,130,mg/kg,1/0,No,,,Sediment
+62,AFFF Release Area 6  Return Ditch,PFOS,0.00163 J,0.126,mg/kg,3/0,No,No,NFRAP,Sediment
+63,AFFF Release Area 6  Return Ditch,PFOA,ND,0.126,mg/kg,3/0,No,,,Sediment
+64,AFFF Release Area 6  Return Ditch,PFBS,ND,130,mg/kg,3/0,No,,,Sediment
+66,AFFF Release Area 7  Fire Truck  Operational Checks  Area,PFOS,0.0251,0.126,mg/kg,3/0,No,Yes,NFRAP,Surface Soil
+67,AFFF Release Area 7  Fire Truck  Operational Checks  Area,PFOA,0.00164 J,0.126,mg/kg,3/0,No,,,Surface Soil
+68,AFFF Release Area 7  Fire Truck  Operational Checks  Area,PFBS,ND,130,mg/kg,3/0,No,,,Surface Soil
+70,AFFF Release Area 7  Fire Truck  Operational Checks  Area,PFOS,ND,0.126,mg/kg,3/0,No,,NFRAP,Subsurface Soil
+71,AFFF Release Area 7  Fire Truck  Operational Checks  Area,PFOA,ND,0.126,mg/kg,3/0,No,,,Subsurface Soil
+72,AFFF Release Area 7  Fire Truck  Operational Checks  Area,PFBS,ND,130,mg/kg,3/0,No,,,Subsurface Soil
+74,AFFF Release Area 7  Fire Truck  Operational Checks  Area,PFOS,5.36,0.07,µg/L,3/2,Yes,,Follow‐on SI,Groundwater
+75,AFFF Release Area 7  Fire Truck  Operational Checks  Area,PFOA,0.365,0.07,µg/L,3/2,Yes,,,Groundwater
+76,AFFF Release Area 7  Fire Truck  Operational Checks  Area,PFOS+PFOA,5.725,0.07,µg/L,3/2,Yes,,,Groundwater
+77,AFFF Release Area 7  Fire Truck  Operational Checks  Area,PFBS,0.193,40,µg/L,3/0,No,,,Groundwater
+79,AFFF Release Area 7  Fire Truck  Operational Checks  Area,PFOS,0.0483,0.126,mg/kg,1/0,No,,NFRAP,Sediment
+80,AFFF Release Area 7  Fire Truck  Operational Checks  Area,PFOA,0.000848 J,0.126,mg/kg,1/0,No,,,Sediment
+81,AFFF Release Area 7  Fire Truck  Operational Checks  Area,PFBS,ND,130,mg/kg,1/0,No,,,Sediment
+83,AFFF Release Area 8  Current FTA,PFOS,0.115,0.126,mg/kg,2/0,No,Yes,NFRAP,Surface Soil
+84,AFFF Release Area 8  Current FTA,PFOA,0.00112 J,0.126,mg/kg,2/0,No,,,Surface Soil
+85,AFFF Release Area 8  Current FTA,PFBS,ND,130,mg/kg,2/0,No,,,Surface Soil
+87,AFFF Release Area 8  Current FTA,PFOS,0.0101 J,0.126,mg/kg,2/0,No,,NFRAP,Subsurface Soil
+88,AFFF Release Area 8  Current FTA,PFOA,ND,0.126,mg/kg,2/0,No,,,Subsurface Soil
+89,AFFF Release Area 8  Current FTA,PFBS,ND,130,mg/kg,2/0,No,,,Subsurface Soil
+91,AFFF Release Area 8  Current FTA,PFOS,1.15,0.07,µg/L,1/1,Yes,,Follow‐on SI,Groundwater
+92,AFFF Release Area 8  Current FTA,PFOA,0.178,0.07,µg/L,1/1,Yes,,,Groundwater
+93,AFFF Release Area 8  Current FTA,PFOS+PFOA,1.327,0.07,µg/L,1/1,Yes,,,Groundwater
+94,AFFF Release Area 8  Current FTA,PFBS,0.186,40,µg/L,1/0,No,,,Groundwater
+96,AFFF Release Area 9  J‐4 Test Cell  Groundwater  Extraction System,PFOS,0.039,0.07,µg/L,1/0,No,No,Advance Area to RI,Groundwater
+97,AFFF Release Area 9  J‐4 Test Cell  Groundwater  Extraction System,PFOA,0.0811,0.07,µg/L,1/1,Yes,,,Groundwater
+98,AFFF Release Area 9  J‐4 Test Cell  Groundwater  Extraction System,PFOS+PFOA,0.1201,0.07,µg/L,1/1,Yes,,,Groundwater
+99,AFFF Release Area 9  J‐4 Test Cell  Groundwater  Extraction System,PFBS,0.0196,40,µg/L,1/0,No,,,Groundwater

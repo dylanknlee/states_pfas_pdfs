@@ -1,0 +1,19 @@
+,Sample  Location  Relative to Site,Sample  ID,Well Type,PCE  µg/L,TCE  µg/L,"cis- 1,2- DCE  µg/L","trans-  1,2- DCE  µg/L","1,4  Dioxane  µg/L",PFOA  ppt,PFOS  ppt,PFHxS  ppt,Sulfate   mg/L*,,Sample Location,Sample Date,EPA ID
+0,MCLs / NMWQCC Standards:,,,5,5,70,100,--,0.004,0.02,--,250,,"North Freeman Avenue, Artesia, New Mexico",09/2022,NMN000605615
+1,Upgradient,GW01,Private,ND,ND,ND,ND,-,-,-,-,-,,"North Freeman Avenue, Artesia, New Mexico",09/2022,NMN000605615
+2,Upgradient,GW02,Private,ND,ND,ND,ND,-,-,-,-,-,,"North Freeman Avenue, Artesia, New Mexico",09/2022,NMN000605615
+3,Upgradient,GW03,Private,ND,ND,ND,ND,-,-,-,-,-,,"North Freeman Avenue, Artesia, New Mexico",09/2022,NMN000605615
+4,Downgradient,GW04,Private,ND,ND,ND,ND,ND,ND,ND,ND,"1,100",,"North Freeman Avenue, Artesia, New Mexico",09/2022,NMN000605615
+5,Downgradient,GW05,Private,ND,ND,ND,ND,-,-,-,-,-,,"North Freeman Avenue, Artesia, New Mexico",09/2022,NMN000605615
+6,Downgradient,GW06,Private,ND,ND,ND,ND,-,-,-,-,-,,"North Freeman Avenue, Artesia, New Mexico",09/2022,NMN000605615
+7,Downgradient,GW08,Private,ND,ND,ND,ND,-,-,-,-,-,,"North Freeman Avenue, Artesia, New Mexico",09/2022,NMN000605615
+8,Downgradient,GW09,Private,ND,ND,ND,ND,-,-,-,-,-,,"North Freeman Avenue, Artesia, New Mexico",09/2022,NMN000605615
+9,Downgradient,GW10,Private,ND,ND,ND,ND,-,-,-,-,-,,"North Freeman Avenue, Artesia, New Mexico",09/2022,NMN000605615
+10,Downgradient,GW11,Private,ND,ND,ND,ND,ND,ND,7.1,11,-,,"North Freeman Avenue, Artesia, New Mexico",09/2022,NMN000605615
+11,Downgradient,GW12,Private,ND,ND,ND,ND,-,-,-,-,-,,"North Freeman Avenue, Artesia, New Mexico",09/2022,NMN000605615
+12,Cross gradient,GW15,Monitoring,ND,ND,ND,ND,-,-,-,-,-,,"North Freeman Avenue, Artesia, New Mexico",09/2022,NMN000605615
+13,Cross gradient,GW16,Monitoring,ND,ND,-,-,-,-,-,-,-,,"North Freeman Avenue, Artesia, New Mexico",09/2022,NMN000605615
+14,Cross gradient,GW17,Municipal,ND,ND,ND,ND,-,-,-,-,-,,"North Freeman Avenue, Artesia, New Mexico",09/2022,NMN000605615
+15,Upgradient,GW18,Community,ND,ND,ND,ND,-,-,-,-,-,,"North Freeman Avenue, Artesia, New Mexico",09/2022,NMN000605615
+16,Upgradient,GW19,Mobile  Home Park,ND,ND,ND,ND,-,-,-,-,-,,"North Freeman Avenue, Artesia, New Mexico",09/2022,NMN000605615
+17,Upgradient,GW20,Private,ND,ND,ND,ND,-,-,-,-,-,,"North Freeman Avenue, Artesia, New Mexico",09/2022,NMN000605615

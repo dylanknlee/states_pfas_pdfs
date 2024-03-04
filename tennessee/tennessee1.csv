@@ -1,0 +1,6 @@
+,Sampling Location,Sample Identifier,Sample Date,Sample Depth (ft),Sample Type,Water Type,PFOS,PFOA,PFOS+PFOA,PFBS,PFHpA,PFHxS,PFNA
+0,MW-BNA01-01,MW-BNA01-01-01,03/09/18,15.5-25.5,Reg,Groundwater,96,13.0,109.0,27.0,5.1,130,1.4U
+1,MW-BNA05-01,MW-BNA05-01-01,03/09/18,2.8-7.8,Reg,Groundwater,66,12.0,78.0,5.1,3.2,75,1.3J
+2,,MW-BNA05-01-01D,03/09/18,2.8-7.8,FD,Groundwater,61,11.0,72.0,4.4,3.6,68,1.4J
+3,BNA04-SW1,BNA04-SW1-01,03/09/18,,Reg,Stormwater,50,7.3,57.3,11.0,3.5,59,0.8J
+4,BNA05-SW1,BNA05-SW1-01,03/09/18,,Reg,Stormwater,250,21.0,271.0,22.0,8.4,190,1.3J

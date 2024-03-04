@@ -1,0 +1,214 @@
+,Water System Name / Well Name,USGS Site ID,County,Date,PFBS,PFPeS,PFHxS,PFHpS,PFOS,PFNS,PFDS,PFBA,PFPeA,PFHxA,PFHpA,PFOA,PFNA,PFDA,PFUnDA,PFDoDA,PFTrDA,PFTeDA,PFOSA,N-MeFOSAA,N-EtFOSAA,4:2 FTS,6:2 FTS,8:2 FTS,9Cl-PF3ONS,11Cl-PF3OUdS,ADONA,HFPO-DA,"PFOA+ PFOS
+(ng/L)","ΣPFAS
+(ng/L)",Total PFAS includes estimated values?
+0,ABCWUA / Burton 4,350343106363301,Bernalillo,2020-09-25 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+1,ABCWUA / Leavitt 2,350249106434201,Bernalillo,2021-02-09 00:00:00,,,,,1.3,,,,,,,,,,,,,,,,,,,,,,,,1.3,1.3,Yes
+2,ABCWUA / Walker 1,351025106323801,Bernalillo,2021-02-09 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+3,Roswell Water System / RIAC 1,331843104305001,Chaves,2020-10-28 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+4,Roswell Water System / RIAC 4,331843104315001,Chaves,2020-10-28 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+5,Roswell Water System / Well 12,332137104303901,Chaves,2020-10-28 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+6,Clovis Municipal Airport / Well 1,342537103051201,Curry,2020-11-17 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+7,Desert Ranch MDWCA / Well 1,342439103190901,Curry,2021-02-08 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+8,Desert Ranch MDWCA / Well 1,342439103190901,Curry,2021-05-12 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+9,Grady Water System / Well 1,344916103190001,Curry,2020-09-25 00:00:00,,,,,,,,,4.3,2.7,,,,,,,,,,,,,,,,,,,--,7,No
+10,Grady Water System / Well 1,344916103190001,Curry,2021-01-13 00:00:00,,,,,,,,,4.4,2.9,,,,,,,,,,,,,,,,,,,--,7.3,No
+11,Grady Water System / Well 2,344916103185801,Curry,2021-01-13 00:00:00,,,,,,,,,2,1.3,,,,,,,,,,,,,,,,,,,--,3.3,Yes
+12,Grady Water System / Well 3,344915103185101,Curry,2021-01-13 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+13,Longhorn Estates Water System / Well 2,342610103185401,Curry,2021-02-10 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+14,Longhorn Estates Water System / Well 2,342610103185401,Curry,2021-05-12 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+15,Love's Travel Center / Well 1,342342103084201,Curry,2020-12-16 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+16,Melrose Water System / Well 1,342525103390901,Curry,2020-12-15 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+17,Melrose Water System / Well 1,342525103390901,Curry,2021-02-10 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+18,Melrose Water System / Well 2,342528103390901,Curry,2020-08-25 00:00:00,,,2,,1.4,,,,,,,,,,,,,,,,,,,,,,,,1.4,3.4,Yes
+19,Melrose Water System / Well 2,342528103390901,Curry,2021-02-10 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+20,Melrose Water System / Well 3,342450103380101,Curry,2021-01-14 00:00:00,1.5,1.2,11.8,,2.9,,,,,,,,,,,,,,,,,,,,,,,,2.9,17.4,Yes
+21,Melrose Water System / Well 4,342446103380101,Curry,2021-01-14 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+22,Ned Houk Park Area 11 / Well 1,343053103111201,Curry,2020-09-09 00:00:00,,,,,,,,,,,,,,,,,,,,,,,5.8,,,,,,--,5.8,Yes
+23,Ned Houk Park Area 11 / Well 1,343053103111201,Curry,2021-02-11 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+24,Texico Water System / Brown well,342346103024901,Curry,2021-06-02 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+25,Texico Water System / KKR well,342322103025301,Curry,2020-12-16 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+26,Texico Water System / KKR well,342322103025301,Curry,2021-02-09 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+27,Texico Water System / Meeks Pivot well,342220103023302,Curry,2021-02-09 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+28,Texico Water System / Tower well,342326103024501,Curry,2020-12-16 00:00:00,28.8,,,,,,,17.8,20.1,8,,,,,,,,,,,,,,,,,,,--,74.7,No
+29,Texico Water System / Tower well,342326103024501,Curry,2021-02-09 00:00:00,32.4,,,,,,,19,19.9,9,,,,,,,,,,,,,,,,,,,--,80.3,No
+30,Texico Water System / Tower well,342326103024501,Curry,2021-06-02 00:00:00,27.5,,,,,,,15.2,15.1,5.3,,,,,,,,,,,,,,,,,,,--,63.1,No
+31,Turqoise Estates Water Coop / Well 1,342444103182201,Curry,2021-01-12 00:00:00,6.7,1.7,2.6,,,,,7.7,14,11.2,,,,,,,,,,,,,,,,,,,--,43.9,Yes
+32,Turqoise Estates Water Coop / Well 3,342444103180601,Curry,2021-01-12 00:00:00,2,,3.4,,,,,,5,5.4,,,,,,,,,,,,,,,,,,,--,15.8,Yes
+33,Lake Section WC / Butler well,320302106253101,Doña Ana,2021-01-13 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+34,Lake Section WC / Gruber well,320116106262101,Doña Ana,2021-01-13 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+35,Lake Section WC / Guffey well,320126106254001,Doña Ana,2021-01-13 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+36,Lake Section WC / Sylvia well,320153106254101,Doña Ana,2021-01-14 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+37,Lake Section WC / Well POD 13,320330106254801,Doña Ana,2021-01-14 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+38,Las Cruces Municipal Water System / Well 32,321806106461501,Doña Ana,2020-09-29 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+39,Las Cruces Municipal Water System / Well 59,321804106484001,Doña Ana,2020-09-29 00:00:00,,,,,1.8,,,,,,,,,,,,,,,,,,,,,,,,1.8,1.8,Yes
+40,Gallup Water System / Ray well,353814108473001,McKinley,2021-04-26 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+41,Gallup Water System / Well 16,353314108453101,McKinley,2021-04-26 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+42,Alamo Heights WUA / Well 1,325645105574101,Otero,2021-05-27 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+43,Alamogordo Domestic Water System / Golf Course well,325132105573201,Otero,2021-08-16 00:00:00,,,,,,,,,,,,8,,,,,,,,,,,,,,,,,8,8,No
+44,Alamogordo Domestic Water System / Prather 1 North,324752105585301,Otero,2020-09-17 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+45,Alamogordo Domestic Water System / Prather 1 North,324752105585301,Otero,2021-04-15 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+46,Alamogordo Domestic Water System / Prather 2 South,324711105585201,Otero,2020-09-18 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+47,Alamogordo Domestic Water System / Prather 2 South,324711105585201,Otero,2021-04-15 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+48,Alamogordo Domestic Water System / Snake Tank well 5,331237106022002,Otero,2021-02-09 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+49,Alamogordo Domestic Water System / Well 2,325704105560701,Otero,2021-01-27 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+50,Alamogordo Domestic Water System / Well 3,325704105561801,Otero,2021-01-27 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+51,Alamogordo Domestic Water System / Well 4,325717105560601,Otero,2021-01-27 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+52,Alamogordo Domestic Water System / Well 5,325827105562201,Otero,2020-09-17 00:00:00,,,,,,,,,,,,,,,,,,,,,,,10.9,,,,,,--,10.9,No
+53,Alamogordo Domestic Water System / Well 5,325827105562201,Otero,2021-02-10 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+54,Alamogordo Domestic Water System / Well 6,325648105561201,Otero,2021-01-27 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+55,Alamogordo Domestic Water System / Well 7,325610105561801,Otero,2021-05-25 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+56,Alamogordo Domestic Water System / Well 8,325745105561001,Otero,2021-01-27 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+57,Boles Acres Water System / Well 1,324827105585001,Otero,2020-12-22 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+58,Boles Acres Water System / Well 2,324817105584801.0,Otero,2021-08-17 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+59,Boles Acres Water System / Well 4,324904105585401.0,Otero,2020-11-05 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+60,Boles Acres Water System / Well 5,324827105593201.0,Otero,2020-11-05 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+61,Cider Mill Farms MDWCA / Well 1,325559105483301.0,Otero,2020-12-29 00:00:00,1.0,,0.9,,,,,,,,,,,,,,,,,,,,,,,,,,--,1.9,Yes
+62,Cider Mill Farms MDWCA / Well 2,325623105483301.0,Otero,2020-12-29 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+63,Cloud Country Estates WUA / Well 1 (Cotton Canyon well),325537105364001.0,Otero,2021-01-26 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+64,Cloud Country West Water System / Well 1,325735105393701.0,Otero,2021-01-27 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+65,Cloudcroft Water System / Well 2,325704105421501.0,Otero,2021-03-30 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+66,Cloudcroft Water System / Well 3,325703105421401.0,Otero,2021-03-30 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+67,Cloudcroft Water System / Well 4,325700105421101.0,Otero,2021-03-30 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+68,Cloudcroft Water System / Well 5,325656105421001.0,Otero,2021-03-31 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+69,Cloudcroft Water System / Well 6,325703105421801.0,Otero,2021-03-30 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+70,Cloudcroft Water System / Well 8,325654105421001.0,Otero,2021-03-31 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+71,Cloudcroft Water System / Well 9,325658105420901.0,Otero,2021-04-01 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+72,Dungan MDWCA / Well 1,325510105584101.0,Otero,2021-02-11 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+73,Enchanted Valley WUA / Well 1,325839105590101.0,Otero,2021-01-27 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+74,La Luz MDWCA / Well 1,325846105561501.0,Otero,2020-12-30 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+75,La Luz MDWCA / Well 2,325852105560301.0,Otero,2020-12-30 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+76,La Luz MDWCA / Well 3,325847105554801.0,Otero,2020-12-29 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+77,La Luz MDWCA / Well 4,325854105554801.0,Otero,2020-12-30 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+78,Silver Cloud Water Association / Well 1,325611105445801.0,Otero,2021-04-28 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+79,Timberon W & SD / Golf Course Well,323805105414001.0,Otero,2021-04-27 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+80,Timberon W & SD / Well 5 (Plant Well),323847105420601.0,Otero,2021-04-27 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+81,Causey Water System / Well 1,335247103080201.0,Roosevelt,2020-09-08 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+82,Oasis State Park / Well 2,341530103211301.0,Roosevelt,2020-08-25 00:00:00,,,,,1.2,,,,,,,,,,,,,,,,,,,,,,,,1.2,1.2,Yes
+83,Portales Water System /  Blackwater 10,341230103083601.0,Roosevelt,2021-05-11 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+84,Portales Water System /  Blackwater 11,341349103083401.0,Roosevelt,2020-08-26 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+85,Portales Water System /  Blackwater 42,341309103085401.0,Roosevelt,2020-11-18 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+86,Portales Water System /  Las Lomas 35,341154103103801.0,Roosevelt,2021-05-11 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+87,Portales Water System /  Las Lomas 37,341200103112801.0,Roosevelt,2020-11-18 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+88,Portales Water System / Sandhill 3,341333103195001.0,Roosevelt,2020-08-26 00:00:00,,,,,1.3,,,,,,,,,,,,,,,,,,,,,,,,1.3,1.3,Yes
+89,Portales Water System / Sandhill 3,341333103195001.0,Roosevelt,2020-08-26 00:00:00,,,,,1.6,,,,,,,,,,,,,,,,,,,,,,,,1.6,1.6,Yes
+90,Portales Water System / Sandhill 3,341333103195001.0,Roosevelt,2021-05-11 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+91,Portales Water System / Sandhill 4,341321103193401.0,Roosevelt,2021-05-11 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+92,Portales Water System / Sandhill 5,341333103193501.0,Roosevelt,2020-11-17 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+93,Portales Water System / Sandhill 7,341347103184201.0,Roosevelt,2020-12-15 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+94,-- / PNM KPC1,364823108255901.0,San Juan,2020-12-02 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+95,-- / San Juan Coal Mine GL,364642108254201.0,San Juan,2020-11-19 00:00:00,,,,,,,,4.6,,,,,,,,,,,,,,,,,,,,,--,4.6,No
+96,Flora Vista Mutual Domestic / Well 4,364732108034101.0,San Juan,2020-10-28 00:00:00,1.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,1.3,Yes
+97,Corrales Municipal Complex / Well 1,351325106370101.0,Sandoval,2020-09-29 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+98,La Mesa Water Coop / Well 5,351944106283601.0,Sandoval,2020-09-11 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+99,Santa Fe Water System / Agua Fria,354041105581301.0,Santa Fe,2020-09-15 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+100,Santa Fe Water System / Osage,354022105584701.0,Santa Fe,2020-09-15 00:00:00,,,,,1.1,,,,,,,1.1,,,,,,,,,,,,,,,,,2.2,2.2,Yes
+101,San Acacia MDWCA / Well 3,341643106541601.0,Socorro,2020-09-28 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+102,Socorro Water System / South Industrial Park Well,340204106550301.0,Socorro,2020-09-28 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+103,Capulin Volcano National Monument / Well 1,364643103583701.0,Union,2020-08-11 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+104,"Rio Grande at Alameda Bridge, NM",8329918,Bernalillo,2020-08-19 00:00:00,,,,,,,,2,2.2,,,,,,,,,,,,,,,,,,,,--,4.2,Yes
+105,"Rio Grande at Alameda Bridge, NM",8329918,Bernalillo,2020-09-16 00:00:00,2.8,,,,,,,,0.9,,,,,,,,,,,,,,,,,,,,--,3.7,Yes
+106,"Rio Grande at Alameda Bridge, NM",8329918,Bernalillo,2020-11-23 00:00:00,3.9,,,,,,,,1.3,,,,,,,,,,,,,,,,,,,,--,5.2,Yes
+107,"Rio Grande at Alameda Bridge, NM",8329918,Bernalillo,2020-12-18 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+108,"Rio Grande at Alameda Bridge, NM",8329918,Bernalillo,2021-01-11 00:00:00,,,,,,,,,1.1,,,,,,,,,,,,,,,,,,,,--,1.1,Yes
+109,"Rio Grande at Alameda Bridge, NM",8329918,Bernalillo,2021-05-05 00:00:00,2.9,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,2.9,No
+110,"Rio Grande at Valle de Oro, NM",8330830,Bernalillo,2020-08-31 00:00:00,,,,,2.6,,,,5.8,2.9,,,,,,,,,,,,,,,,,,,--,8.7,No
+111,"Rio Grande at Valle de Oro, NM",8330830,Bernalillo,2020-09-16 00:00:00,93,,1.2,,,,,12.3,27.9,12.5,1.7,4.9,,,,,,,,,,,,,,,,,7.5,156.1,Yes
+112,"Rio Grande at Valle de Oro, NM",8330830,Bernalillo,2020-11-23 00:00:00,22.4,,,,,,,3.1,6.6,4,,1.6,,,,,,,,,,,,,,,,,1.6,37.7,Yes
+113,"Rio Grande at Valle de Oro, NM",8330830,Bernalillo,2020-12-18 00:00:00,,,,,,,,3,4.8,3.4,,1.3,,,,,,,,,,,,,,,,,1.3,12.5,Yes
+114,"Rio Grande at Valle de Oro, NM",8330830,Bernalillo,2021-02-08 00:00:00,,,,,,,,2,4,4.2,,1.4,,,,,,,,,,,,,,,,,1.4,11.6,Yes
+115,"Rio Grande at Valle de Oro, NM",8330830,Bernalillo,2021-03-03 00:00:00,,,,,,,,1.8,3.4,2.9,,1.5,,,,,,,,,,,,,,,,,1.5,9.6,Yes
+116,"Rio Grande at Valle de Oro, NM",8330830,Bernalillo,2021-03-10 00:00:00,,,,,,,,2,3,2.8,,1.1,,,,,,,,,,,,,,,,,1.1,8.9,Yes
+117,"Rio Grande at El Paso, TX",8364000,"Doña Ana/El Paso Cty, TX",2020-08-25 00:00:00,4.3,,1.7,,3.7,,,3.1,2.4,1.4,,1.2,,,,,,,,,,,,,,,,,4.9,17.8,Yes
+118,"Rio Grande at El Paso, TX",8364000,"Doña Ana/El Paso Cty, TX",2020-09-15 00:00:00,10.1,,1.7,,2,,,4.7,3.5,1.8,,1.4,,,,,,,,,,,,,,,,,3.4,25.2,Yes
+119,"Rio Grande at El Paso, TX",8364000,"Doña Ana/El Paso Cty, TX",2020-10-15 00:00:00,,,3.2,,3.8,,,4.6,7.3,5.3,2.3,4.4,,,,,,,,,,,7.2,,,,,,8.2,38.1,Yes
+120,"Rio Grande at El Paso, TX",8364000,"Doña Ana/El Paso Cty, TX",2020-11-04 00:00:00,,1.1,5.2,,6.5,,,5.4,6.6,5.7,2.4,4.3,,,,,,,,,,,7.4,,,,,,10.8,44.6,Yes
+121,"Rio Grande at El Paso, TX",8364000,"Doña Ana/El Paso Cty, TX",2020-11-24 00:00:00,18.3,1.6,3.4,,4.4,,,4.7,8.8,6.4,2.7,4.7,,,,,,,,,,,8.3,,,,,,9.1,63.3,Yes
+122,"Rio Grande at El Paso, TX",8364000,"Doña Ana/El Paso Cty, TX",2020-12-04 00:00:00,9.9,1.3,3.6,,4.6,,,4.8,8.8,6.4,2.6,4.5,,,,,,,,,,,10,,,,,,9.1,56.5,Yes
+123,"Rio Grande at El Paso, TX",8364000,"Doña Ana/El Paso Cty, TX",2020-12-11 00:00:00,6.5,,2.6,,3.4,,,3.5,6.4,4.5,1.8,3.3,,,,,,,,,,,7.3,,,,,,6.7,39.3,Yes
+124,"Rio Grande at El Paso, TX",8364000,"Doña Ana/El Paso Cty, TX",2021-04-15 00:00:00,,1.9,6.5,,5.5,,,6.9,11,11.4,3.9,6.2,,,,,,,,,,,17.7,,,,,,11.7,71,Yes
+125,"Rio Grande at El Paso, TX",8364000,"Doña Ana/El Paso Cty, TX",2021-05-14 00:00:00,,1.7,6.5,,4.8,,,8,15,12.5,5,6.5,,,,,,,,,,,26.1,,,,,,11.3,86.1,Yes
+126,"Pecos River near Artesia, NM",8396500,Eddy,2020-08-26 00:00:00,2.6,,1.5,,2.1,,,4,2.3,1.5,,1.5,,,,,,,,,,,,,,,,,3.6,15.5,Yes
+127,"Pecos River near Artesia, NM",8396500,Eddy,2020-09-16 00:00:00,1.3,,,,,,,3.5,1,,,,,,,,,,,,,,,,,,,,--,5.8,Yes
+128,"Pecos River near Artesia, NM",8396500,Eddy,2020-10-16 00:00:00,3,,1.4,,1.4,,,,1.7,1.2,,,,,,,,,,,,,,,,,,,1.4,8.7,Yes
+129,"Pecos River near Artesia, NM",8396500,Eddy,2020-12-21 00:00:00,10.6,,2.3,,3.3,,,,3,2.7,,1.7,,,,,,,,,,,,,,,,,5,23.6,Yes
+130,"Pecos River near Artesia, NM",8396500,Eddy,2021-06-10 00:00:00,2.6,,1.4,,1.4,,,3.9,1.6,0.9,,1.1,,,,,,,,,,,,,,,,,2.5,12.9,Yes
+131,"Pecos River near Red Bluff, NM",8407500,Eddy,2020-08-26 00:00:00,,,1.1,,1.5,,,1.9,2,1,,,,,,,,,,,,,,,,,,,1.5,7.5,Yes
+132,"Gila River near Gila, NM",9430500,Grant,2020-09-10 00:00:00,18.5,,,,,,,30,2.1,0.9,2,,,,,,,,,,,,,,,,,,--,53.5,Yes
+133,"Pecos River near Puerto de Luna, NM",8383500,Guadalupe,2020-08-27 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,Yes
+134,"Pecos River near Puerto de Luna, NM",8383500,Guadalupe,2020-09-24 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+135,"Pecos River near Puerto de Luna, NM",8383500,Guadalupe,2020-11-03 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+136,"Pecos River near Puerto de Luna, NM",8383500,Guadalupe,2020-12-17 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+137,"Pecos River near Puerto de Luna, NM",8383500,Guadalupe,2021-06-08 00:00:00,,,,,,,,,1.7,,,1.1,,,,,,,,,,,,,,,,,1.1,2.8,
+138,Alamogordo Domestic Water System / Alamo Canyon Springs,325114105500401,Otero,2021-05-26 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+139,Alamogordo Domestic Water System / Caballero Canyon Springs,325234105501101,Otero,2021-05-25 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+140,Alamogordo Domestic Water System / Crockett Springs,330057105505601,Otero,2021-04-30 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+141,Alamogordo Domestic Water System / Fresnal Canyon Diversion,325727105525201,Otero,2021-05-26 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+142,Alamogordo Domestic Water System / Fresnal Canyon Springs,325840105542601,Otero,2021-05-26 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+143,Alamogordo Domestic Water System / Gordon Canyon Springs,324948105492601,Otero,2021-05-25 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+144,Alamogordo Domestic Water System / Lower Maruche Infiltratio,325954105501201,Otero,2021-04-29 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+145,Alamogordo Domestic Water System / Lower Maruche Infiltratio,325954105501201,Otero,2021-04-29 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+146,Alamogordo Domestic Water System / Lower Maruche Infiltratio,325954105501201,Otero,2021-04-29 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+147,Alamogordo Domestic Water System / Lower Springer Springs,325901105492301,Otero,2021-04-30 00:00:00,,,2.5,,,,,,,,,,,,,,,,,,,,,,,,,,--,2.5,No
+148,Alamogordo Domestic Water System / Reservoirs 1-3,325813105560301,Otero,2021-02-10 00:00:00,,,1.3,,,,,,,,,,,,,,,,,,,,,,,,,,--,1.3,Yes
+149,Alamogordo Domestic Water System / Upper Maruche Springs,325942105501901,Otero,2021-04-29 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+150,Alamogordo Domestic Water System / Upper Springer Infiltratio,325825105541201,Otero,2021-04-30 00:00:00,,,2.7,,,,,,,,,,,,,,,,,,,,,,,,,,--,2.7,No
+151,Cloud Country Estates WUA / Spring 1 (Lower Twin),325557105364001,Otero,2021-01-27 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+152,Cloud Country Estates WUA / Spring 2 (Upper Bear),325601105364401,Otero,2021-01-27 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+153,Cloudcroft Water System / Spring 1,325721105423801,Otero,2021-04-14 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+154,Cloudcroft Water System / Spring 2,325708105422201,Otero,2021-04-14 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+155,Cloudcroft Water System / Spring 3,325708105422001,Otero,2021-04-14 00:00:00,1.5,,,,,,,12.7,,,,,,,,,,,,,,,,,,,,,--,14.2,Yes
+156,Cloudcroft Water System / Spring 4,325654105421301,Otero,2021-03-31 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+157,Cloudcroft Water System / Spring 5,325652105421201,Otero,2021-04-01 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+158,Cloudcroft Water System / Spring 8,325634105421501,Otero,2021-04-13 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+159,Cloudcroft Water System / Spring 9,325636105421501,Otero,2021-04-13 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+160,Cloudcroft Water System / Spring 10,325637105421401,Otero,2021-04-13 00:00:00,1.4,,,,,,,28.7,1,4.8,1.9,36,0.9,2.8,,,,,,,,,,,,,,,36,77.5,Yes
+161,Cloudcroft Water System / Spring 11,325648105420901,Otero,2021-04-14 00:00:00,2.3,,,,,,,27,1.1,2.4,1.3,4.8,,,,,,,,,,,,,,,,,4.8,38.9,Yes
+162,Cloudcroft Water System / Spring 12,325703105422501,Otero,2021-04-14 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+163,Cloudcroft Water System / Spring 13 (New Spring),325657105421301,Otero,2021-04-14 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+164,Karr Canyon Estates / Spring 1,325448105484701,Otero,2021-01-28 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+165,La Luz MDWCA / Fresnal Canyon intake,325848105554701.0,Otero,2020-12-30 00:00:00,,,1.5,,,,,,,,,,,,,,,,,,,,,,,,,,--,1.5,Yes
+166,Mountain Orchard MDWCA / Spring 1,325627105482701.0,Otero,2021-01-28 00:00:00,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,1,Yes
+167,Timberon W & SD / Spring 5 (Carrisa),323905105395101.0,Otero,2021-04-28 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+168,Tularosa Water System / Raw water reservoir,330515105584401.0,Otero,2021-01-26 00:00:00,,,,,1.0,,,,,,,,,,,,,,,,,,,,,,,,1,1,Yes
+169,Tularosa Water System / Tularosa stream intake,330539105582601.0,Otero,2021-01-26 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+170,Waterfall Community WUA / Spring,325437105410301.0,Otero,2021-04-16 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+171,"Canadian River at Logan, NM",7227000.0,Quay,2020-11-30 00:00:00,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,1,Yes
+172,"Canadian River at Logan, NM",7227000.0,Quay,2021-05-06 00:00:00,2.5,,,,,,,2.4,,,,,,,,,,,,,,,,,,,,,--,4.9,Yes
+173,Rio Chama below Abiquiu Reservoir,8287000.0,Rio Arriba,2020-08-20 00:00:00,1.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,1.7,Yes
+174,Rio Chama below Abiquiu Reservoir,8287000.0,Rio Arriba,2020-11-17 00:00:00,1.4,,,,,,,1.9,,,,,,,,,,,,,,,,,,,,,--,3.3,Yes
+175,Rio Chama below Abiquiu Reservoir,8287000.0,Rio Arriba,2021-02-22 00:00:00,1.8,,,,,,,2.2,,,,,,,,,,,,,,,,,,,,,--,4,Yes
+176,Rio Chama below Abiquiu Reservoir,8287000.0,Rio Arriba,2021-04-09 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+177,"Animas River at Farmington, NM",9364500.0,San Juan,2020-08-13 00:00:00,2.1,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,2.1,Yes
+178,"Animas River at Farmington, NM",9364500.0,San Juan,2020-09-23 00:00:00,3.1,,1.0,,1.5,,,,1.7,,,,,,,,,,,,,,,,,,,,1.5,7.3,Yes
+179,"Animas River at Farmington, NM",9364500.0,San Juan,2020-10-29 00:00:00,,,,,,,,,1.6,1.0,,,,,,,,,,,,,,,,,,,--,2.6,Yes
+180,"Animas River at Farmington, NM",9364500.0,San Juan,2020-11-18 00:00:00,1.2,,,,,,,,1.5,,,,,,,,,,,,,,,,,,,,--,2.7,Yes
+181,"Animas River at Farmington, NM",9364500.0,San Juan,2021-02-25 00:00:00,,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,--,1,Yes
+182,"Animas River at Farmington, NM",9364500.0,San Juan,2021-05-26 00:00:00,2.4,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,2.4,No
+183,"San Juan River near Archuleta, NM",9355500.0,San Juan,2020-08-12 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+184,"San Juan River near Archuleta, NM",9355500.0,San Juan,2020-09-22 00:00:00,2.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,2.7,No
+185,"San Juan River near Archuleta, NM",9355500.0,San Juan,2020-10-28 00:00:00,2.0,,,,,,,2.4,,,,,,,,,,,,,,,,,,,,,--,4.4,Yes
+186,"San Juan River near Archuleta, NM",9355500.0,San Juan,2020-11-18 00:00:00,1.2,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,1.2,Yes
+187,"San Juan River near Archuleta, NM",9355500.0,San Juan,2020-12-02 00:00:00,,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,--,1,Yes
+188,"San Juan River near Archuleta, NM",9355500.0,San Juan,2021-02-26 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+189,"San Juan River near Archuleta, NM",9355500.0,San Juan,2021-05-24 00:00:00,1.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,1.3,Yes
+190,"San Juan River near Fruitland, NM",9367540.0,San Juan,2020-08-12 00:00:00,2.0,,,,,,,2.2 E,,,,,,,,,,,,,,,,,,,,,--,2,Yes
+191,"San Juan River near Fruitland, NM",9367540.0,San Juan,2020-09-23 00:00:00,2.0,,,,,,,,1.4,,,,,,,,,,,,,,,,,,,,--,3.4,Yes
+192,"San Juan River near Fruitland, NM",9367540.0,San Juan,2020-10-27 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+193,"San Juan River near Fruitland, NM",9367540.0,San Juan,2020-11-16 00:00:00,,,,,,,,,2.9,1.6,,,,,,,,,,,,,,,,,,,--,4.5,Yes
+194,"San Juan River near Fruitland, NM",9367540.0,San Juan,2020-12-01 00:00:00,3.5,,,,,,,,1.6,,,,,,,,,,,,,,,,,,,,--,5.1,Yes
+195,"San Juan River near Fruitland, NM",9367540.0,San Juan,2021-02-25 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+196,"San Juan River near Fruitland, NM",9367540.0,San Juan,2021-05-25 00:00:00,3.1,,,,,,,,,,,,,,,,,,2.4,,,,,,,,,,--,7.7,Yes
+197,"Canadian River near Sanchez, NM",7221500.0,San Miguel,2020-09-02 00:00:00,2.6,,,,0.9,,,11.4,1.9,,,,,,,,,,,,,,,,,,,,--,16.8,Yes
+198,"Canadian River near Sanchez, NM",7221500.0,San Miguel,2021-05-10 00:00:00,1.6,,,,,,,3,,,,,,,,,,,,,,,,,,,,,--,4.6,Yes
+199,"Canadian River below Conchas Dam, NM",7224500.0,San Miguel,2020-09-29 00:00:00,1.4,,,,1.2,,,6.9,,,1.0,,,,,,,,,,,,,,,,,,--,10.5,Yes
+200,"Rio Grande above Buckman Diversion, NM",8313150.0,Santa Fe,2020-08-28 00:00:00,1.0,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,1,Yes
+201,"Rio Grande above Buckman Diversion, NM",8313150.0,Santa Fe,2020-09-17 00:00:00,2.3,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,2.3,No
+202,"Rio Grande above Buckman Diversion, NM",8313150.0,Santa Fe,2020-09-28 00:00:00,1.8,,,,,,,,1.0,,,,,,,,,,,,,,,,,,,,--,2.8,Yes
+203,"Rio Grande above Buckman Diversion, NM",8313150.0,Santa Fe,2020-11-12 00:00:00,3.0,,,,,,,,1.2,,,,,,,,,,,,,,,,,,,,--,4.2,Yes
+204,"Rio Grande above Buckman Diversion, NM",8313150.0,Santa Fe,2020-12-08 00:00:00,1.7,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,1.7,No
+205,"Rio Grande above Buckman Diversion, NM",8313150.0,Santa Fe,2021-01-29 00:00:00,,,,,,,,,,,,,,,,,,,,,,,4.7,,,,,,--,4.7,Yes
+206,"Rio Grande above Buckman Diversion, NM",8313150.0,Santa Fe,2021-02-25 00:00:00,,,,,,,,,,,,,,,,,,,,,,,2.1,,,,,,--,2.1,Yes
+207,"Rio Grande above Buckman Diversion, NM",8313150.0,Santa Fe,2021-03-11 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
+208,"Rio Grande Floodway at San Marcial, NM",8358400.0,Socorro,2020-08-24 00:00:00,4.9,,1.5,,2.9,,,4.1,2.4,,,,,,,,,,,,,,,,,,,,2.9,15.8,Yes
+209,"Rio Puerco near Bernardo, NM",8353000.0,Socorro,2020-09-13 00:00:00,2.3,,,,3.1,,,23.9,3.2,1.4,1.8,,,,,,,,,,,,,,,,,,3.1,35.7,Yes
+210,"Rio Grande below Taos Junction Bridge, NM",8276500.0,Taos,2020-08-26 00:00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,--,--,
