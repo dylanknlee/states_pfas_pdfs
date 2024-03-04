@@ -7,11 +7,11 @@
 3. iowa - Xiaojun : Checked (NOTE: Drinking and raw water samples are put together in this table as one rather than in separate datasets, but you can distinguish them in the "Facility Name" column)
 4. kentucky - Xiaojun : Checked
 5. wyoming  Checked
-6. alaska (each of the tables on different pdfs are combined into one) Checked but I did not find PFAS type in CSV
+6. alaska (each of the tables on different pdfs are combined into one)
 7. virginia Checked
 8. north dakota Checked
-9. tennessee (will be added)
-10. arizona (will be added)
-11. new mexico (will be added)
+9. tennessee 
+10. arizona 
+11. new mexico 
 
-To check: South Carolina (new table added, see note) 
+To check: South Carolina, New Mexico, Arizona, Tennessee, Alaska is fixed
