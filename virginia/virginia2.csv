@@ -1,13 +1,10 @@
-,0,1,2,3,4,5,6,7,8
-0,Waterworks Name,Smith Mountain  Lake WTP,Vicker Heights,Bethel Woods  Subdivision,Walton Farms  Subdivision,Mountain  View  Elementary,Twin  Boulders  Subdivision,Keswick  Farms,Town of  Altavista
-1,City/County,Bedford County,Montgomery  County,Montgomery  County,Montgomery  County,Rockbridge  County,Montgomery  County,Botetourt  County,Campbell  County
-2,Source Type,SW,GW,GW,GW,GW,GW,GW,SW
-3,Entry Point Name,SMITH  MOUNTAIN  LAKE WTP,ENTRY  POINT -  WELL,ENTRY  POINT -  WELL,ENTRY  POINT -  WELL,ENTRY  POINT -  WELL,ENTRY  POINT -  WELL,ENTRY  POINT -  WELL,ENTRY  POINT TAP  - SURFACE  WATER  PLANT
-4,HFPO-DA,5 ng/L,*,*,*,*,*,*,5.3 ng/L
-5,PFBA,*,2.1 ng/L,*,*,*,*,*,*
-6,PFBS,*,*,5.2 ng/L,*,*,*,*,*
-7,PFHxA,*,*,2.2 ng/L,2 ng/L,*,*,3.8 ng/L,2.1 ng/L
-8,PFPeA,*,*,2.6 ng/L,2.3 ng/L,*,*,4.8 ng/L,2.5 ng/L
-9,PFHxS,*,*,2.5 ng/L,*,2.1 ng/L,*,*,*
-10,PFOS,*,*,2.5 ng/L,*,10 ng/L,2.4 ng/L,*,*
-11,PFOA,*,*,2.7 ng/L,*,3 ng/L,2 ng/L,2.7 ng/L,*
+ID,Waterworks Name,City/County,Source Type,Entry Point Name,HFPO-DA,PFBA,PFBS,PFHxA,PFPeA,PFHxS,PFOS,PFOA
+0,Smith Mountain  Lake WTP,Bedford County,SW,SMITH  MOUNTAIN  LAKE WTP,5 ng/L,*,*,*,*,*,*,*
+1,Vicker Heights,Montgomery  County,GW,ENTRY  POINT -  WELL,*,2.1 ng/L,*,*,*,*,*,*
+2,Bethel Woods  Subdivision,Montgomery  County,GW,ENTRY  POINT -  WELL,*,*,5.2 ng/L,2.2 ng/L,2.6 ng/L,2.5 ng/L,2.5 ng/L,2.7 ng/L
+3,Walton Farms  Subdivision,Montgomery  County,GW,ENTRY  POINT -  WELL,*,*,*,2 ng/L,2.3 ng/L,*,*,*
+4,Mountain  View  Elementary,Rockbridge  County,GW,ENTRY  POINT -  WELL,*,*,*,*,*,2.1 ng/L,10 ng/L,3 ng/L
+5,Twin  Boulders  Subdivision,Montgomery  County,GW,ENTRY  POINT -  WELL,*,*,*,*,*,2.4 ng/L,2.4 ng/L,2 ng/L
+6,Keswick  Farms,Botetourt  County,GW,ENTRY  POINT -  WELL,*,*,*,3.8 ng/L,4.8 ng/L,*,*,2.7 ng/L
+7,Town of  Altavista,Campbell  County,SW,ENTRY  POINT TAP  - SURFACE  WATER  PLANT,5.3 ng/L,*,*,2.1 ng/L,2.5 ng/L,*,*,*
+

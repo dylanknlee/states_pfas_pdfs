@@ -1,0 +1,556 @@
+,sample_id,analyte,concentration,sampling_date,units,is_detected,source_type,state,sampling_location,latitude,longitude,data_source
+0,JW0121,PFOA,1.1,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+1,JW0122,PFOA,1.5,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+2,JW0127,PFOA,0.0,2020-06-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+3,JW0128,PFOA,0.0,2020-06-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+4,JW0129,PFOA,0.0,2020-06-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+5,JW0130,PFOA,0.0,2020-06-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+6,WW208 (JW0131 ),PFOA,1.1,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+7,WW208 (JW0131 ),PFOA,1.9,2021-04-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+8,WW208 (JW0131 ),PFOA,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+9,WW208 (JW0131 ),PFOA,2.3,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+10,JW0133,PFOA,1.2,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+11,WW-207 (JW0134),PFOA,1.6,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+12,WW-207 (JW0134),PFOA,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+13,WW-207 (JW0134),PFOA,3.5,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+14,JW0135,PFOA,1.4,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+15,JW0138,PFOA,1.5,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+16,JW0139,PFOA,1.1,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+17,JW0170,PFOA,0.0,2020-06-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+18,JW0172,PFOA,1.8,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+19,JW0172,PFOA,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+20,JW0173,PFOA,0.0,2020-06-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+21,JW0173,PFOA,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+22,JW0173,PFOA,0.0,2022-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+23,JW0174,PFOA,0.0,2020-06-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+24,JW0183,PFOA,0.0,2020-06-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+25,JW1210,PFOA,0.0,2020-06-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+26,JW1213,PFOA,0.0,2020-06-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+27,JW1213,PFOA,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+28,JW1213,PFOA,0.59,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+29,JW1215,PFOA,0.7,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+30,WW216  (JW1216),PFOA,1.3,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+31,WW216  (JW1216),PFOA,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+32,WW216  (JW1216),PFOA,3.1,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+33,JW1217,PFOA,1.3,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+34,JW1218,PFOA,1.1,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+35,JW1219,PFOA,1.2,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+36,JW1220,PFOA,0.8,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+37,JW1222,PFOA,0.7,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+38,JW1224,PFOA,1.2,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+39,JW1310,PFOA,1.2,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+40,JW1312,PFOA,1.7,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+41,JW1313,PFOA,1.1,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+42,JW1315,PFOA,0.7,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+43,JW1316,PFOA,0.0,2020-06-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+44,SW-1,PFOA,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+45,UW-1,PFOA,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+46,UW-2,PFOA,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+47,UW-3,PFOA,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+48,WW-1,PFOA,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+49,WW-10,PFOA,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+50,WW-11,PFOA,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+51,WW-12,PFOA,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+52,WW-13,PFOA,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+53,WW-14,PFOA,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+54,WW-14,PFOA,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+55,WW-14,PFOA,0.0,2022-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+56,WW-2,PFOA,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+57,WW-201,PFOA,0.0,2020-09-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+58,WW-202,PFOA,0.0,2020-09-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+59,WW-203,PFOA,0.0,2020-09-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+60,WW-204,PFOA,0.0,2020-09-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+61,WW-204,PFOA,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+62,WW-204,PFOA,0.62,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+63,WW-205,PFOA,0.0,2020-09-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+64,WW-206,PFOA,0.0,2020-09-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+65,WW-210,PFOA,0.0,2020-09-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+66,WW-211,PFOA,2.7,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+67,WW-213,PFOA,0.0,2020-09-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+68,WW-214,PFOA,0.0,2020-09-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+69,WW-215,PFOA,2.5,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+70,WW-217,PFOA,2.2,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+71,WW-218,PFOA,0.0,2020-09-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+72,WW-219,PFOA,2.2,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+73,WW-3,PFOA,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+74,WW-3,PFOA,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+75,WW-3,PFOA,1.1,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+76,WW-3002,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+77,WW-3003,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+78,WW-3006,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+79,WW-3008,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+80,WW-3009,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+81,WW-3010,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+82,WW-3012,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+83,WW-3013,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+84,WW-3014,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+85,WW-3015,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+86,WW-3016,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+87,WW-3018,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+88,WW-3021,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+89,WW-3022,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+90,WW-3022,PFOA,4.2,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+91,WW-3022,PFOA,0.53,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+92,WW-3024,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+93,WW-3027,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+94,WW-3031,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+95,WW-3031,PFOA,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+96,WW-3031,PFOA,0.0,2022-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+97,WW-3032,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+98,WW-3035,PFOA,0.0,2021-03-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+99,WW-3036,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+100,WW-3037,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+101,WW-3038,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+102,WW-3039,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+103,WW-3042,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+104,WW-3044,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+105,WW-3046,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+106,WW-3047,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+107,WW-3048,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+108,WW-3049,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+109,WW-3050,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+110,WW-3053,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+111,WW-3057,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+112,WW-3059,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+113,WW-3063,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+114,WW-3064,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+115,WW-3064,PFOA,0.0,2022-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+116,WW-3065,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+117,WW-3065,PFOA,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+118,WW-3065,PFOA,0.0,2022-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+119,WW-3066,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+120,WW-3077,PFOA,2.4,2021-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+121,WW-3077,PFOA,1.9,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+122,WW-3077,PFOA,0.0,2022-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+123,WW-3082,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+124,WW-3085,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+125,WW-3087,PFOA,0.0,2021-03-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+126,WW-3089,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+127,WW-3090,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+128,WW-3091,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+129,WW-3092,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+130,WW-3095,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+131,WW-3096,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+132,WW-3097,PFOA,0.0,2021-03-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+133,WW-3098,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+134,WW-3099,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+135,WW-3118,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+136,WW-3119,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+137,WW-3119,PFOA,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+138,WW-3119,PFOA,0.77,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+139,WW-3120,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+140,WW-3120,PFOA,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+141,WW-3122,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+142,WW-3124,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+143,WW-3128,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+144,WW-3129,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+145,WW-3131,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+146,WW-3134,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+147,WW-3135,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+148,WW-3139,PFOA,2.7,2021-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+149,WW-3139,PFOA,2.4,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+150,WW-3139,PFOA,18.0,2022-05-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+151,WW-3141,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+152,WW-3141,PFOA,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+153,WW-3141,PFOA,0.6,2022-05-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+154,WW-3143-NEW,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+155,WW-3143-NEW,PFOA,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+156,WW-3143-NEW,PFOA,0.72,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+157,WW-3143-OLD,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+158,WW-3149,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+159,WW-3150,PFOA,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+160,WW-3151,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+161,WW-3152,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+162,WW-3153,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+163,WW-3154,PFOA,0.0,2021-03-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+164,WW-3155,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+165,WW-3155,PFOA,0.0,2022-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+166,WW-3158,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+167,WW-3159,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+168,WW-3159,PFOA,0.95,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+169,WW-3160,PFOA,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+170,WW-4,PFOA,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+171,WW-401,PFOA,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+172,WW-401,PFOA,0.0,2022-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+173,WW-402,PFOA,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+174,WW-403,PFOA,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+175,WW-404,PFOA,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+176,WW-405,PFOA,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+177,WW-406,PFOA,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+178,WW-5,PFOA,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+179,WW-6,PFOA,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+180,WW-7,PFOA,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+181,WW-8,PFOA,2.0,2020-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+182,WW-9,PFOA,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+183,WW-9,PFOA,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+184,WW-9,PFOA,1.0,2022-05-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+185,JW0121,PFOS,29.5,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+186,JW0122,PFOS,62.3,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+187,JW0127,PFOS,5.8,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+188,JW0128,PFOS,0.7,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+189,JW0129,PFOS,0.0,2020-06-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+190,JW0130,PFOS,5.81,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+191,WW208 (JW0131 ),PFOS,26.5,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+192,WW208 (JW0131 ),PFOS,58.3,2021-04-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+193,WW208 (JW0131 ),PFOS,19.0,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+194,WW208 (JW0131 ),PFOS,35.0,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+195,JW0133,PFOS,39.5,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+196,WW-207 (JW0134),PFOS,68.7,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+197,WW-207 (JW0134),PFOS,46.0,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+198,WW-207 (JW0134),PFOS,43.0,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+199,JW0135,PFOS,34.5,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+200,JW0138,PFOS,62.0,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+201,JW0139,PFOS,38.2,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+202,JW0170,PFOS,42.4,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+203,JW0172,PFOS,3.8,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+204,JW0172,PFOS,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+205,JW0173,PFOS,1.7,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+206,JW0173,PFOS,2.1,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+207,JW0173,PFOS,1.0,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+208,JW0174,PFOS,0.0,2020-06-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+209,JW0183,PFOS,0.0,2020-06-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+210,JW1210,PFOS,0.0,2020-06-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+211,JW1213,PFOS,8.06,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+212,JW1213,PFOS,8.1,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+213,JW1213,PFOS,6.6,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+214,JW1215,PFOS,31.7,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+215,WW216  (JW1216),PFOS,43.3,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+216,WW216  (JW1216),PFOS,24.0,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+217,WW216  (JW1216),PFOS,47.0,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+218,JW1217,PFOS,42.7,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+219,JW1218,PFOS,34.8,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+220,JW1219,PFOS,21.4,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+221,JW1220,PFOS,13.2,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+222,JW1222,PFOS,11.4,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+223,JW1224,PFOS,6.8,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+224,JW1310,PFOS,34.0,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+225,JW1312,PFOS,45.2,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+226,JW1313,PFOS,25.4,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+227,JW1315,PFOS,12.6,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+228,JW1316,PFOS,6.2,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+229,SW-1,PFOS,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+230,UW-1,PFOS,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+231,UW-2,PFOS,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+232,UW-3,PFOS,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+233,WW-1,PFOS,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+234,WW-10,PFOS,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+235,WW-11,PFOS,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+236,WW-12,PFOS,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+237,WW-13,PFOS,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+238,WW-14,PFOS,4.6,2020-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+239,WW-14,PFOS,3.5,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+240,WW-14,PFOS,0.0,2022-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+241,WW-2,PFOS,24.0,2020-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+242,WW-201,PFOS,23.0,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+243,WW-202,PFOS,14.0,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+244,WW-203,PFOS,17.0,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+245,WW-204,PFOS,7.0,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+246,WW-204,PFOS,7.1,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+247,WW-204,PFOS,7.1,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+248,WW-205,PFOS,0.0,2020-09-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+249,WW-206,PFOS,35.0,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+250,WW-210,PFOS,24.0,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+251,WW-211,PFOS,40.0,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+252,WW-213,PFOS,17.0,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+253,WW-214,PFOS,16.0,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+254,WW-215,PFOS,47.0,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+255,WW-217,PFOS,26.0,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+256,WW-218,PFOS,0.0,2020-09-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+257,WW-219,PFOS,47.0,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+258,WW-3,PFOS,22.0,2020-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+259,WW-3,PFOS,18.0,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+260,WW-3,PFOS,18.0,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+261,WW-3002,PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+262,WW-3003,PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+263,WW-3006,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+264,WW-3008,PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+265,WW-3009,PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+266,WW-3010,PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+267,WW-3012,PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+268,WW-3013,PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+269,WW-3014,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+270,WW-3015,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+271,WW-3016,PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+272,WW-3018,PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+273,WW-3021,PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+274,WW-3022,PFOS,4.7,2021-01-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+275,WW-3022,PFOS,7.2,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+276,WW-3022,PFOS,5.3,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+277,WW-3024,PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+278,WW-3027,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+279,WW-3031,PFOS,2.4,2021-01-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+280,WW-3031,PFOS,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+281,WW-3031,PFOS,0.0,2022-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+282,WW-3032,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+283,WW-3035,PFOS,0.0,2021-03-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+284,WW-3036,PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+285,WW-3037,PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+286,WW-3038,PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+287,WW-3039,PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+288,WW-3042,PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+289,WW-3044,PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+290,WW-3046,PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+291,WW-3047,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+292,WW-3048,PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+293,WW-3049,PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+294,WW-3050,PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+295,WW-3053,PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+296,WW-3057,PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+297,WW-3059,PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+298,WW-3063,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+299,WW-3064,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+300,WW-3064,PFOS,0.0,2022-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+301,WW-3065,PFOS,10.0,2021-01-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+302,WW-3065,PFOS,5.0,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+303,WW-3065,PFOS,0.0,2022-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+304,WW-3066,PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+305,WW-3077,PFOS,15.0,2021-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+306,WW-3077,PFOS,13.0,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+307,WW-3077,PFOS,0.7,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+308,WW-3082,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+309,WW-3085,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+310,WW-3087,PFOS,0.0,2021-03-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+311,WW-3089,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+312,WW-3090,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+313,WW-3091,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+314,WW-3092,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+315,WW-3095,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+316,WW-3096,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+317,WW-3097,PFOS,0.0,2021-03-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+318,WW-3098,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+319,WW-3099,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+320,WW-3118,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+321,WW-3119,PFOS,4.3,2021-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+322,WW-3119,PFOS,6.7,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+323,WW-3119,PFOS,10.0,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+324,WW-3120,PFOS,23.0,2021-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+325,WW-3120,PFOS,21.0,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+326,WW-3122,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+327,WW-3124,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+328,WW-3128,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+329,WW-3129,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+330,WW-3131,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+331,WW-3134,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+332,WW-3135,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+333,WW-3139,PFOS,26.0,2021-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+334,WW-3139,PFOS,28.0,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+335,WW-3139,PFOS,22.0,2022-05-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+336,WW-3141,PFOS,10.0,2021-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+337,WW-3141,PFOS,10.0,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+338,WW-3141,PFOS,11.0,2022-05-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+339,WW-3143-NEW,PFOS,6.8,2021-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+340,WW-3143-NEW,PFOS,5.4,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+341,WW-3143-NEW,PFOS,5.1,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+342,WW-3143-OLD,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+343,WW-3149,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+344,WW-3150,PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+345,WW-3151,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+346,WW-3152,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+347,WW-3153,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+348,WW-3154,PFOS,14.0,2021-03-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+349,WW-3155,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+350,WW-3155,PFOS,0.0,2022-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+351,WW-3158,PFOS,16.0,2021-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+352,WW-3159,PFOS,23.0,2021-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+353,WW-3159,PFOS,20.0,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+354,WW-3160,PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+355,WW-4,PFOS,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+356,WW-401,PFOS,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+357,WW-401,PFOS,0.0,2022-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+358,WW-402,PFOS,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+359,WW-403,PFOS,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+360,WW-404,PFOS,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+361,WW-405,PFOS,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+362,WW-406,PFOS,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+363,WW-5,PFOS,8.5,2020-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+364,WW-6,PFOS,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+365,WW-7,PFOS,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+366,WW-8,PFOS,45.0,2020-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+367,WW-9,PFOS,32.0,2020-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+368,WW-9,PFOS,25.0,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+369,WW-9,PFOS,14.0,2022-05-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+370,JW0121,PFOA +  PFOS,30.6,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+371,JW0122,PFOA +  PFOS,63.8,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+372,JW0127,PFOA +  PFOS,5.8,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+373,JW0128,PFOA +  PFOS,0.7,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+374,JW0129,PFOA +  PFOS,0.0,2020-06-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+375,JW0130,PFOA +  PFOS,5.8,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+376,WW208 (JW0131 ),PFOA +  PFOS,27.6,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+377,WW208 (JW0131 ),PFOA +  PFOS,60.3,2021-04-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+378,WW208 (JW0131 ),PFOA +  PFOS,19.0,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+379,WW208 (JW0131 ),PFOA +  PFOS,37.3,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+380,JW0133,PFOA +  PFOS,40.7,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+381,WW-207 (JW0134),PFOA +  PFOS,70.3,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+382,WW-207 (JW0134),PFOA +  PFOS,46.0,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+383,WW-207 (JW0134),PFOA +  PFOS,46.5,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+384,JW0135,PFOA +  PFOS,35.9,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+385,JW0138,PFOA +  PFOS,63.5,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+386,JW0139,PFOA +  PFOS,39.3,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+387,JW0170,PFOA +  PFOS,42.4,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+388,JW0172,PFOA +  PFOS,5.6,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+389,JW0172,PFOA +  PFOS,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+390,JW0173,PFOA +  PFOS,1.7,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+391,JW0173,PFOA +  PFOS,2.1,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+392,JW0173,PFOA +  PFOS,1.0,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+393,JW0174,PFOA +  PFOS,0.0,2020-06-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+394,JW0183,PFOA +  PFOS,0.0,2020-06-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+395,JW1210,PFOA +  PFOS,0.0,2020-06-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+396,JW1213,PFOA +  PFOS,8.1,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+397,JW1213,PFOA +  PFOS,8.1,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+398,JW1213,PFOA +  PFOS,7.2,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+399,JW1215,PFOA +  PFOS,32.4,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+400,WW216  (JW1216),PFOA +  PFOS,44.6,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+401,WW216  (JW1216),PFOA +  PFOS,24.0,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+402,WW216  (JW1216),PFOA +  PFOS,50.1,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+403,JW1217,PFOA +  PFOS,44.0,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+404,JW1218,PFOA +  PFOS,35.9,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+405,JW1219,PFOA +  PFOS,22.6,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+406,JW1220,PFOA +  PFOS,14.0,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+407,JW1222,PFOA +  PFOS,12.1,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+408,JW1224,PFOA +  PFOS,8.0,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+409,JW1310,PFOA +  PFOS,35.2,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+410,JW1312,PFOA +  PFOS,46.9,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+411,JW1313,PFOA +  PFOS,26.5,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+412,JW1315,PFOA +  PFOS,13.3,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+413,JW1316,PFOA +  PFOS,6.2,2020-06-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+414,SW-1,PFOA +  PFOS,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+415,UW-1,PFOA +  PFOS,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+416,UW-2,PFOA +  PFOS,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+417,UW-3,PFOA +  PFOS,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+418,WW-1,PFOA +  PFOS,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+419,WW-10,PFOA +  PFOS,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+420,WW-11,PFOA +  PFOS,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+421,WW-12,PFOA +  PFOS,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+422,WW-13,PFOA +  PFOS,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+423,WW-14,PFOA +  PFOS,4.6,2020-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+424,WW-14,PFOA +  PFOS,3.5,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+425,WW-14,PFOA +  PFOS,0.0,2022-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+426,WW-2,PFOA +  PFOS,24.0,2020-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+427,WW-201,PFOA +  PFOS,23.0,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+428,WW-202,PFOA +  PFOS,14.0,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+429,WW-203,PFOA +  PFOS,17.0,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+430,WW-204,PFOA +  PFOS,7.0,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+431,WW-204,PFOA +  PFOS,7.1,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+432,WW-204,PFOA +  PFOS,7.7,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+433,WW-205,PFOA +  PFOS,0.0,2020-09-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+434,WW-206,PFOA +  PFOS,35.0,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+435,WW-210,PFOA +  PFOS,24.0,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+436,WW-211,PFOA +  PFOS,42.7,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+437,WW-213,PFOA +  PFOS,17.0,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+438,WW-214,PFOA +  PFOS,16.0,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+439,WW-215,PFOA +  PFOS,49.5,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+440,WW-217,PFOA +  PFOS,28.2,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+441,WW-218,PFOA +  PFOS,0.0,2020-09-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+442,WW-219,PFOA +  PFOS,49.2,2020-09-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+443,WW-3,PFOA +  PFOS,22.0,2020-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+444,WW-3,PFOA +  PFOS,18.0,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+445,WW-3,PFOA +  PFOS,19.1,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+446,WW-3002,PFOA +  PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+447,WW-3003,PFOA +  PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+448,WW-3006,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+449,WW-3008,PFOA +  PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+450,WW-3009,PFOA +  PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+451,WW-3010,PFOA +  PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+452,WW-3012,PFOA +  PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+453,WW-3013,PFOA +  PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+454,WW-3014,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+455,WW-3015,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+456,WW-3016,PFOA +  PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+457,WW-3018,PFOA +  PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+458,WW-3021,PFOA +  PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+459,WW-3022,PFOA +  PFOS,4.7,2021-01-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+460,WW-3022,PFOA +  PFOS,11.4,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+461,WW-3022,PFOA +  PFOS,5.8,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+462,WW-3024,PFOA +  PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+463,WW-3027,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+464,WW-3031,PFOA +  PFOS,2.4,2021-01-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+465,WW-3031,PFOA +  PFOS,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+466,WW-3031,PFOA +  PFOS,0.0,2022-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+467,WW-3032,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+468,WW-3035,PFOA +  PFOS,0.0,2021-03-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+469,WW-3036,PFOA +  PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+470,WW-3037,PFOA +  PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+471,WW-3038,PFOA +  PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+472,WW-3039,PFOA +  PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+473,WW-3042,PFOA +  PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+474,WW-3044,PFOA +  PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+475,WW-3046,PFOA +  PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+476,WW-3047,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+477,WW-3048,PFOA +  PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+478,WW-3049,PFOA +  PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+479,WW-3050,PFOA +  PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+480,WW-3053,PFOA +  PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+481,WW-3057,PFOA +  PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+482,WW-3059,PFOA +  PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+483,WW-3063,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+484,WW-3064,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+485,WW-3064,PFOA +  PFOS,0.0,2022-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+486,WW-3065,PFOA +  PFOS,10.0,2021-01-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+487,WW-3065,PFOA +  PFOS,5.0,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+488,WW-3065,PFOA +  PFOS,0.0,2022-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+489,WW-3066,PFOA +  PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+490,WW-3077,PFOA +  PFOS,17.4,2021-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+491,WW-3077,PFOA +  PFOS,14.9,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+492,WW-3077,PFOA +  PFOS,0.7,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+493,WW-3082,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+494,WW-3085,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+495,WW-3087,PFOA +  PFOS,0.0,2021-03-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+496,WW-3089,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+497,WW-3090,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+498,WW-3091,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+499,WW-3092,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+500,WW-3095,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+501,WW-3096,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+502,WW-3097,PFOA +  PFOS,0.0,2021-03-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+503,WW-3098,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+504,WW-3099,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+505,WW-3118,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+506,WW-3119,PFOA +  PFOS,4.3,2021-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+507,WW-3119,PFOA +  PFOS,6.7,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+508,WW-3119,PFOA +  PFOS,10.8,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+509,WW-3120,PFOA +  PFOS,23.0,2021-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+510,WW-3120,PFOA +  PFOS,21.0,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+511,WW-3122,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+512,WW-3124,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+513,WW-3128,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+514,WW-3129,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+515,WW-3131,PFOA +  PFOS,2.0,2021-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+516,WW-3134,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+517,WW-3135,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+518,WW-3139,PFOA +  PFOS,28.7,2021-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+519,WW-3139,PFOA +  PFOS,30.4,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+520,WW-3139,PFOA +  PFOS,40.0,2022-05-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+521,WW-3141,PFOA +  PFOS,10.0,2021-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+522,WW-3141,PFOA +  PFOS,10.0,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+523,WW-3141,PFOA +  PFOS,12.0,2022-05-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+524,WW-3143-NEW,PFOA +  PFOS,6.8,2021-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+525,WW-3143-NEW,PFOA +  PFOS,5.4,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+526,WW-3143-NEW,PFOA +  PFOS,5.8,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+527,WW-3143-OLD,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+528,WW-3149,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+529,WW-3150,PFOA +  PFOS,0.0,2021-01-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+530,WW-3151,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+531,WW-3152,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+532,WW-3153,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+533,WW-3154,PFOA +  PFOS,14.0,2021-03-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+534,WW-3155,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+535,WW-3155,PFOA +  PFOS,0.0,2022-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+536,WW-3158,PFOA +  PFOS,16.0,2021-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+537,WW-3159,PFOA +  PFOS,23.0,2021-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+538,WW-3159,PFOA +  PFOS,20.95,2022-02-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+539,WW-3160,PFOA +  PFOS,0.0,2021-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+540,WW-4,PFOA +  PFOS,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+541,WW-401,PFOA +  PFOS,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+542,WW-401,PFOA +  PFOS,0.0,2022-02-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+543,WW-402,PFOA +  PFOS,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+544,WW-403,PFOA +  PFOS,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+545,WW-404,PFOA +  PFOS,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+546,WW-405,PFOA +  PFOS,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+547,WW-406,PFOA +  PFOS,0.0,2021-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+548,WW-5,PFOA +  PFOS,8.5,2020-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+549,WW-6,PFOA +  PFOS,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+550,WW-7,PFOA +  PFOS,0.0,2020-08-01,ng/L,False,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+551,WW-8,PFOA +  PFOS,47.0,2020-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+552,WW-9,PFOA +  PFOS,32.0,2020-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+553,WW-9,PFOA +  PFOS,25.0,2021-08-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport
+554,WW-9,PFOA +  PFOS,15.0,2022-05-01,ng/L,True,groundwater,Wyoming,Jackson Hole Airport,43.6088,110.7376,Jackson Hole Airport

@@ -1,0 +1,225 @@
+,Sampling Location,Sampling Date,Sampling Time,Analyte,Sampling Method,Qual,Amount,Sampling Location ID
+0,AH Well 22 POE,6/3/2013,9:40,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+1,AH Well 22 POE,6/3/2013,9:40,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+2,AH Well 22 POE,6/3/2013,9:40,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+3,AH Well 22 POE,6/3/2013,9:40,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+4,AH Well 22 POE,6/3/2013,9:40,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+5,AH Well 22 POE,6/3/2013,9:40,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+6,AH Well 22 POE,1/16/2014,12:10,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+7,AH Well 22 POE,1/16/2014,12:10,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+8,AH Well 22 POE,1/16/2014,12:10,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+9,AH Well 22 POE,1/16/2014,12:10,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+10,AH Well 22 POE,1/16/2014,12:10,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+11,AH Well 22 POE,1/16/2014,12:10,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+12,AH Well 22 POE,4/18/2019,13:42,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.002 µg/L,AZ0407093
+13,AH Well 22 POE,4/18/2019,13:42,Perfluorooctanoic acid - PFOA,EPA 537,<,0.002 µg/L,AZ0407093
+14,AH Well 22 POE,5/20/2020,8:40,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.002 µg/L,AZ0407093
+15,AH Well 22 POE,5/20/2020,8:40,Perfluorooctanoic acid - PFOA,EPA 537,<,0.002 µg/L,AZ0407093
+16,CB-1R POE Camelback Ranch,6/3/2013,12:30,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+17,CB-1R POE Camelback Ranch,6/3/2013,12:30,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+18,CB-1R POE Camelback Ranch,6/3/2013,12:30,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+19,CB-1R POE Camelback Ranch,6/3/2013,12:30,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+20,CB-1R POE Camelback Ranch,6/3/2013,12:30,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+21,CB-1R POE Camelback Ranch,6/3/2013,12:30,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+22,CB-1R POE Camelback Ranch,12/4/2013,9:40,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+23,CB-1R POE Camelback Ranch,12/4/2013,9:40,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+24,CB-1R POE Camelback Ranch,12/4/2013,9:40,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+25,CB-1R POE Camelback Ranch,12/4/2013,9:40,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+26,CB-1R POE Camelback Ranch,12/4/2013,9:40,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+27,CB-1R POE Camelback Ranch,12/4/2013,9:40,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+28,CB-1R POE Camelback Ranch,4/18/2019,12:22,Perfluoro octanesulfonic acid -  PFOS,EPA 537,-,0.01 µg/L,AZ0407093
+29,CB-1R POE Camelback Ranch,4/18/2019,12:22,Perfluorooctanoic acid - PFOA,EPA 537,-,0.016 µg/L,AZ0407093
+30,CB-1R POE Camelback Ranch,6/2/2020,10:06,Perfluoro octanesulfonic acid -  PFOS,EPA 537,-,0.0071 µg/L,AZ0407093
+31,CB-1R POE Camelback Ranch,6/2/2020,10:06,Perfluorooctanoic acid - PFOA,EPA 537,-,0.012 µg/L,AZ0407093
+32,CWTP Z1B,6/5/2013,9:50,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+33,CWTP Z1B,6/5/2013,9:50,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+34,CWTP Z1B,6/5/2013,9:50,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+35,CWTP Z1B,6/5/2013,9:50,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+36,CWTP Z1B,6/5/2013,9:50,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+37,CWTP Z1B,6/5/2013,9:50,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+38,CWTP Z1B,9/3/2013,12:25,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+39,CWTP Z1B,9/3/2013,12:25,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+40,CWTP Z1B,9/3/2013,12:25,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+41,CWTP Z1B,9/3/2013,12:25,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+42,CWTP Z1B,9/3/2013,12:25,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+43,CWTP Z1B,9/3/2013,12:25,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+44,CWTP Z1B,12/2/2013,12:15,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+45,CWTP Z1B,12/2/2013,12:15,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+46,CWTP Z1B,12/2/2013,12:15,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+47,CWTP Z1B,12/2/2013,12:15,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+48,CWTP Z1B,12/2/2013,12:15,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+49,CWTP Z1B,12/2/2013,12:15,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+50,CWTP Z1B,3/27/2014,10:40,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+51,CWTP Z1B,3/27/2014,10:40,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+52,CWTP Z1B,3/27/2014,10:40,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+53,CWTP Z1B,3/27/2014,10:40,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+54,CWTP Z1B,3/27/2014,10:40,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+55,CWTP Z1B,3/27/2014,10:40,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+56,CWTP Z1B,4/15/2019,11:23,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.002 µg/L,AZ0407093
+57,CWTP Z1B,4/15/2019,11:23,Perfluorooctanoic acid - PFOA,EPA 537,<,0.002 µg/L,AZ0407093
+58,CWTP Z1B,4/13/2020,11:40,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.002 µg/L,AZ0407093
+59,CWTP Z1B,4/13/2020,11:40,Perfluorooctanoic acid - PFOA,EPA 537,<,0.002 µg/L,AZ0407093
+60,OWTP Finished (Res),6/24/2013,10:50,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+61,OWTP Finished (Res),6/24/2013,10:50,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+62,OWTP Finished (Res),6/24/2013,10:50,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+63,OWTP Finished (Res),6/24/2013,10:50,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+64,OWTP Finished (Res),6/24/2013,10:50,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+65,OWTP Finished (Res),6/24/2013,10:50,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+66,OWTP Finished (Res),9/3/2013,10:35,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+67,OWTP Finished (Res),9/3/2013,10:35,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+68,OWTP Finished (Res),9/3/2013,10:35,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+69,OWTP Finished (Res),9/3/2013,10:35,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+70,OWTP Finished (Res),9/3/2013,10:35,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+71,OWTP Finished (Res),9/3/2013,10:35,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+72,OWTP Finished (Res),12/2/2013,11:05,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+73,OWTP Finished (Res),12/2/2013,11:05,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+74,OWTP Finished (Res),12/2/2013,11:05,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+75,OWTP Finished (Res),12/2/2013,11:05,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+76,OWTP Finished (Res),12/2/2013,11:05,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+77,OWTP Finished (Res),12/2/2013,11:05,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+78,OWTP Finished (Res),3/3/2014,10:40,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+79,OWTP Finished (Res),3/3/2014,10:40,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+80,OWTP Finished (Res),3/3/2014,10:40,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+81,OWTP Finished (Res),3/3/2014,10:40,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+82,OWTP Finished (Res),3/3/2014,10:40,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+83,OWTP Finished (Res),3/3/2014,10:40,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+84,OWTP Finished (Res),4/15/2019,10:04,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.002 µg/L,AZ0407093
+85,OWTP Finished (Res),4/15/2019,10:04,Perfluorooctanoic acid - PFOA,EPA 537,<,0.002 µg/L,AZ0407093
+86,OWTP Finished (Res),4/13/2020,10:15,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.002 µg/L,AZ0407093
+87,OWTP Finished (Res),4/13/2020,10:15,Perfluorooctanoic acid - PFOA,EPA 537,<,0.002 µg/L,AZ0407093
+88,PPWTP Res,6/5/2013,9:00,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+89,PPWTP Res,6/5/2013,9:00,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+90,PPWTP Res,6/5/2013,9:00,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+91,PPWTP Res,6/5/2013,9:00,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+92,PPWTP Res,6/5/2013,9:00,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+93,PPWTP Res,6/5/2013,9:00,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+94,PPWTP Res,9/3/2013,9:45,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+95,PPWTP Res,9/3/2013,9:45,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+96,PPWTP Res,9/3/2013,9:45,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+97,PPWTP Res,9/3/2013,9:45,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+98,PPWTP Res,9/3/2013,9:45,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+99,PPWTP Res,9/3/2013,9:45,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+100,PPWTP Res,12/2/2013,12:05,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+101,PPWTP Res,12/2/2013,12:05,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+102,PPWTP Res,12/2/2013,12:05,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+103,PPWTP Res,12/2/2013,12:05,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+104,PPWTP Res,12/2/2013,12:05,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+105,PPWTP Res,12/2/2013,12:05,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+106,PPWTP Res,3/3/2014,9:16,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+107,PPWTP Res,3/3/2014,9:16,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+108,PPWTP Res,3/3/2014,9:16,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+109,PPWTP Res,3/3/2014,9:16,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+110,PPWTP Res,3/3/2014,9:16,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+111,PPWTP Res,3/3/2014,9:16,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+112,PPWTP Res,4/15/2019,13:15,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.002 µg/L,AZ0407093
+113,PPWTP Res,4/15/2019,13:15,Perfluorooctanoic acid - PFOA,EPA 537,<,0.002 µg/L,AZ0407093
+114,PPWTP Res,4/16/2020,13:03,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.002 µg/L,AZ0407093
+115,PPWTP Res,4/16/2020,13:03,Perfluorooctanoic acid - PFOA,EPA 537,<,0.002 µg/L,AZ0407093
+116,Well 16 POE,6/12/2013,11:00,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+117,Well 16 POE,6/12/2013,11:00,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+118,Well 16 POE,6/12/2013,11:00,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+119,Well 16 POE,6/12/2013,11:00,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+120,Well 16 POE,6/12/2013,11:00,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+121,Well 16 POE,6/12/2013,11:00,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+122,Well 16 POE,12/10/2013,10:40,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+123,Well 16 POE,12/10/2013,10:40,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+124,Well 16 POE,12/10/2013,10:40,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+125,Well 16 POE,12/10/2013,10:40,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+126,Well 16 POE,12/10/2013,10:40,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+127,Well 16 POE,12/10/2013,10:40,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+128,Well 16 POE,4/18/2019,11:21,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.002 µg/L,AZ0407093
+129,Well 16 POE,4/18/2019,11:21,Perfluorooctanoic acid - PFOA,EPA 537,<,0.002 µg/L,AZ0407093
+130,Well 16 POE,5/21/2020,11:25,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.002 µg/L,AZ0407093
+131,Well 16 POE,5/21/2020,11:25,Perfluorooctanoic acid - PFOA,EPA 537,<,0.002 µg/L,AZ0407093
+132,Well 18 POE,9/26/2013,10:50,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+133,Well 18 POE,9/26/2013,10:50,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+134,Well 18 POE,9/26/2013,10:50,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+135,Well 18 POE,9/26/2013,10:50,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+136,Well 18 POE,9/26/2013,10:50,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+137,Well 18 POE,9/26/2013,10:50,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+138,Well 18 POE,12/4/2013,11:55,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+139,Well 18 POE,12/4/2013,11:55,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+140,Well 18 POE,12/4/2013,11:55,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+141,Well 18 POE,12/4/2013,11:55,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+142,Well 18 POE,12/4/2013,11:55,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+143,Well 18 POE,12/4/2013,11:55,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+144,Well 22 POE,6/3/2013,11:00,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+145,Well 22 POE,6/3/2013,11:00,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+146,Well 22 POE,6/3/2013,11:00,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+147,Well 22 POE,6/3/2013,11:00,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+148,Well 22 POE,6/3/2013,11:00,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+149,Well 22 POE,6/3/2013,11:00,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+150,Well 22 POE,12/10/2013,10:30,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+151,Well 22 POE,12/10/2013,10:30,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+152,Well 22 POE,12/10/2013,10:30,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+153,Well 22 POE,12/10/2013,10:30,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+154,Well 22 POE,12/10/2013,10:30,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+155,Well 22 POE,12/10/2013,10:30,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+156,Well 22 POE,12/10/2020,10:45,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.002 µg/L,AZ0407093
+157,Well 22 POE,12/10/2020,10:45,Perfluorooctanoic acid - PFOA,EPA 537,<,0.002 µg/L,AZ0407093
+158,Well 27 POE,6/12/2013,10:25,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+159,Well 27 POE,6/12/2013,10:25,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+160,Well 27 POE,6/12/2013,10:25,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+161,Well 27 POE,6/12/2013,10:25,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+162,Well 27 POE,6/12/2013,10:25,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+163,Well 27 POE,6/12/2013,10:25,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+164,Well 27 POE,12/10/2013,11:10,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+165,Well 27 POE,12/10/2013,11:10,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+166,Well 27 POE,12/10/2013,11:10,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+167,Well 27 POE,12/10/2013,11:10,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+168,Well 27 POE,12/10/2013,11:10,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+169,Well 27 POE,12/10/2013,11:10,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+170,Well 27 POE,4/18/2019,11:50,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.002 µg/L,AZ0407093
+171,Well 27 POE,4/18/2019,11:50,Perfluorooctanoic acid - PFOA,EPA 537,<,0.002 µg/L,AZ0407093
+172,Well 27 POE,9/1/2020,10:30,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.002 µg/L,AZ0407093
+173,Well 27 POE,9/1/2020,10:30,Perfluorooctanoic acid - PFOA,EPA 537,<,0.002 µg/L,AZ0407093
+174,Well 30 POE,6/3/2013,11:40,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+175,Well 30 POE,6/3/2013,11:40,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+176,Well 30 POE,6/3/2013,11:40,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+177,Well 30 POE,6/3/2013,11:40,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+178,Well 30 POE,6/3/2013,11:40,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+179,Well 30 POE,6/3/2013,11:40,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+180,Well 30 POE,12/4/2013,11:20,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+181,Well 30 POE,12/4/2013,11:20,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+182,Well 30 POE,12/4/2013,11:20,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+183,Well 30 POE,12/4/2013,11:20,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+184,Well 30 POE,12/4/2013,11:20,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+185,Well 30 POE,12/4/2013,11:20,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+186,Well 30 POE,4/18/2019,9:13,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.002 µg/L,AZ0407093
+187,Well 30 POE,4/18/2019,9:13,Perfluorooctanoic acid - PFOA,EPA 537,<,0.002 µg/L,AZ0407093
+188,WELL 30 POE,8/19/2020,8:49,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.002 µg/L,AZ0407093
+189,WELL 30 POE,8/19/2020,8:49,Perfluorooctanoic acid - PFOA,EPA 537,<,0.002 µg/L,AZ0407093
+190,Well 40 POE,6/12/2013,10:35,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+191,Well 40 POE,6/12/2013,10:35,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+192,Well 40 POE,6/12/2013,10:35,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+193,Well 40 POE,6/12/2013,10:35,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+194,Well 40 POE,6/12/2013,10:35,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+195,Well 40 POE,6/12/2013,10:35,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+196,Well 40 POE,12/9/2013,10:05,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+197,Well 40 POE,12/9/2013,10:05,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+198,Well 40 POE,12/9/2013,10:05,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+199,Well 40 POE,12/9/2013,10:05,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+200,Well 40 POE,12/9/2013,10:05,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+201,Well 40 POE,12/9/2013,10:05,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+202,Well 40 POE,4/18/2019,9:53,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.002 µg/L,AZ0407093
+203,Well 40 POE,4/18/2019,9:53,Perfluorooctanoic acid - PFOA,EPA 537,<,0.002 µg/L,AZ0407093
+204,Well 40 POE,5/14/2020,9:55,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.002 µg/L,AZ0407093
+205,Well 40 POE,5/14/2020,9:55,Perfluorooctanoic acid - PFOA,EPA 537,<,0.002 µg/L,AZ0407093
+206,Well 43 POE,9/12/2013,11:35,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+207,Well 43 POE,9/12/2013,11:35,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+208,Well 43 POE,9/12/2013,11:35,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+209,Well 43 POE,9/12/2013,11:35,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+210,Well 43 POE,9/12/2013,11:35,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+211,Well 43 POE,9/12/2013,11:35,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+212,Well 43 POE,12/4/2013,10:44,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.04 µg/L,AZ0407093
+213,Well 43 POE,12/4/2013,10:44,Perfluoro-1-butanesulfonic acid - PFBS,EPA 537,<,0.09 µg/L,AZ0407093
+214,Well 43 POE,12/4/2013,10:44,Perfluoro-1-hexanesulfonic acid -  PFHxS,EPA 537,<,0.03 µg/L,AZ0407093
+215,Well 43 POE,12/4/2013,10:44,Perfluoroheptanoic acid -  PFHpA,EPA 537,<,0.01 µg/L,AZ0407093
+216,Well 43 POE,12/4/2013,10:44,Perfluoro-n-nonanoic acid - PFNA,EPA 537,<,0.02 µg/L,AZ0407093
+217,Well 43 POE,12/4/2013,10:44,Perfluorooctanoic acid - PFOA,EPA 537,<,0.02 µg/L,AZ0407093
+218,Well 43 POE,4/18/2019,11:21,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.002 µg/L,AZ0407093
+219,Well 43 POE,4/18/2019,11:21,Perfluorooctanoic acid - PFOA,EPA 537,<,0.002 µg/L,AZ0407093
+220,Well 43 POE,5/2/2019,9:08,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.002 µg/L,AZ0407093
+221,Well 43 POE,5/2/2019,9:08,Perfluorooctanoic acid - PFOA,EPA 537,<,0.002 µg/L,AZ0407093
+222,Well 43 POE,5/20/2020,9:55,Perfluoro octanesulfonic acid -  PFOS,EPA 537,<,0.002 µg/L,AZ0407093
+223,Well 43 POE,5/20/2020,9:55,Perfluorooctanoic acid - PFOA,EPA 537,<,0.002 µg/L,AZ0407093

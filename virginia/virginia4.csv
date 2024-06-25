@@ -1,13 +1,11 @@
-,0,1,2,3,4,5,6,7,8
-0,Waterworks  Name,Town of  Purcellville,Paris,Town of Warrenton,City of  Manassas,Town of Front  Royal,Town of  Madison,RSA Route 20,South River  Sanitary  District
-1,City/County,Loudoun  County,Fauquier  County,Fauquier County,City of  Manassas,Warren County,Madison  County,Orange County,Augusta  County
-2,Source Type,SW,GW,SW,SW,SW,SW,GW,SW
-3,Entry Point  Name,TREATMENT  PLANT  ENTRY  POINT,Fauquier Co  EPT,ENTRY POINT -  WTP,TREATMENT PLANT  ENTRY  POINT,EP - FRONT  ROYAL WTP,ENTRY  POINT,ENTRY  POINT,ENTRY  POINT -  COLES RUN  RESER
-4,PFBA,*,*,3.6 ng/L,4.1 ng/L,*,*,*,3.1 ng/L
-5,PFBS,*,3.9 ng/L,2.1 ng/L,*,*,2.3 ng/L,2 ng/L,*
-6,PFHxA,*,5.2 ng/L,2.5 ng/L,3.1 ng/L,*,*,*,*
-7,PFPeA,*,4.1 ng/L,2.7 ng/L,4.2 ng/L,2 ng/L,*,*,*
-8,PFOS,*,*,2.3 ng/L,*,*,*,*,*
-9,PFOA,*,3.6 ng/L,2.2 ng/L,*,*,*,*,*
-10,6:2 FTS,27 ng/L,5 ng/L,*,*,*,*,*,*
-11,PFPeS,*,3.5 ng/L,*,*,*,*,*,*
+ID,Waterworks Name,City/County,Source Type,Entry Point Name,PFBA,PFBS,PFHxA,PFPeA,PFOS,PFOA,6:2 FTS,PFPeS
+0,Town of Purcellville,Loudoun County,SW,TREATMENT PLANT ENTRY POINT,*,*,*,*,*,*,27 ng/L,*
+1,Paris,Fauquier County,GW,Fauquier Co EPT,*,3.9 ng/L,5.2 ng/L,4.1 ng/L,*,3.6 ng/L,5 ng/L,3.5 ng/L
+2,Town of Warrenton,Fauquier County,SW,ENTRY POINT - WTP,3.6 ng/L,2.1 ng/L,2.5 ng/L,2.7 ng/L,2.3 ng/L,2.2 ng/L,*,*
+3,City of Manassas,City of Manassas,SW,TREATMENT PLANT ENTRY POINT,4.1 ng/L,*,3.1 ng/L,4.2 ng/L,*,*,*,*
+4,Town of Front Royal,Warren County,SW,EP - FRONT ROYAL WTP,*,*,*,2 ng/L,*,*,*,*
+5,Town of Madison,Madison County,SW,ENTRY POINT,*,2.3 ng/L,*,*,*,*,*,*
+6,RSA Route 20,Orange County,GW,ENTRY POINT,*,2 ng/L,*,*,*,*,*,*
+7,South River Sanitary District,Augusta County,SW,ENTRY POINT - COLES RUN RESER,3.1 ng/L,*,*,*,*,*,*,*
+
+
